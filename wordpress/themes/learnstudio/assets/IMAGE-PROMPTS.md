@@ -1,0 +1,33 @@
+# Image generation prompt set and continuity sheet
+
+Use case: `photorealistic-natural`. Tool: OpenAI built-in imagegen, not the CLI/API fallback. Date: 2026-10-10. One photograph generated at a time, reviewed before the next; earlier outputs supplied as image references. The tool selects available resolution; originals retain that resolution. The numbered recipes below normalize the prompts used; reference filenames and actual dimensions are recorded in `images/manifest.json`.
+
+## Shared brief
+
+Generate professional photorealistic editorial/commercial photographs of one fictional Spanish neighborhood academy, Aula Horizonte, in a medium-sized city. A modest street-level center of approximately 150–220 m², not an elite school, university, corporate campus or premium coworking. Glass street facade, small reception with a plain light-oak counter and two sage upholstered waiting chairs, short corridor, main classroom A with oak modular tables and sage molded chairs, smaller tutoring classroom B, and a practical room with six desktop computers. Off-white walls, sage accent walls, natural oak, light tile flooring, simple shelves/cork boards and restrained plants. Practical everyday furniture in good condition, realistic budget.
+
+Soft Mediterranean daylight, consistent warm neutral color, natural shadows, straight lines and credible textures. Realistic 28–50mm equivalent lens, balanced exposure, no excessive HDR or cinematic filters. No readable signs, writing, logos, brands, watermarks or embedded text. No copying real people or centers. Natural faces, skin, expressions and hands; no uniforms, graduation gowns or corporate stock posing. Computer screens contain discreet abstract interface shapes, not prominent illegible text.
+
+Teacher A: fictional woman around 38, shoulder-length wavy chestnut hair, navy sweater, beige trousers. Teacher B: fictional man around 35, short dark wavy hair, discreet dark glasses, olive overshirt over a cream shirt, dark trousers. Diverse adult students aged 20–45 in everyday clothes; preserve recurring clothing, faces and accessories from earlier scenes.
+
+## Numbered scene recipes
+
+1. **01-facade · 3:2.** Street-level glass-front academy entrance at a local-business scale. Through glazing, establish oak reception counter centered/right against sage wall, two waiting chairs left, restrained plants, and corridor right. Soft daylight and credible architectural lines; no signage.
+2. **02-reception · 3:2.** View from just inside the exact entrance in 01. Preserve counter, sage backdrop, two chairs left near glazing, light floor and right-hand corridor. New believable interior camera angle, empty room.
+3. **03-main-classroom-hero · 16:9.** Empty classroom A prepared for a small adult class. Oak modular tables, sage molded chairs, blank whiteboard on sage wall, left daylight window, short oak bookshelf and simple cork board. Broad composition with negative space for a website headline; generate no headline text.
+4. **04-language-class · 3:2.** Teacher A guiding six adults in exact classroom A from 03. Notebooks and generic books, relaxed attentive expressions and natural gestures. Establish teacher face/wardrobe and recurring adult students.
+5. **05-conversation-workshop · 3:2.** Four students from 04 practising conversation in two pairs: curly-haired man in sage shirt, woman in cream striped top, East Asian man in blue chambray shirt, woman in rust sweater with dark tied hair. Preserve room, tables, chairs and clothing, change activity and use another nearby angle.
+6. **06-individual-tutoring · 3:2.** Teacher B explaining a notebook exercise to an adult female learner in smaller classroom B. One small oak table, sage chairs, light floor, off-white/sage walls, left window, modest shelf and cork board. Establish teacher B and room continuity.
+7. **07-computer-training · 3:2.** Four adults from 04 and exact teacher B from 06 in the six-computer room. Plain unbranded desktop stations on oak tables, sage chairs, modest window daylight and shelf. Teacher guides a learner; keep screens unobtrusive.
+8. **08-study-materials · 3:2.** Close detail of generic sage/beige books, notebook, pencils, pens and ceramic pencil cup on the classroom A oak table. Sage chair/wall softly recognizable behind, 50mm and believable depth of field. No readable writing.
+9. **09-teacher-a-portrait · 4:5.** Natural eye-level portrait of exact teacher A from 04 in classroom A. Preserve face, hair, navy sweater and beige trousers; restrained smile and relaxed stance, natural skin texture.
+10. **10-teacher-b-portrait · 4:5.** Natural eye-level portrait of exact teacher B from 06/07 in the computer room. Preserve face, short dark wavy hair, glasses and olive overshirt; relaxed stance, classroom equipment softly in background.
+11. **11-teaching-team · 3:2.** Both exact teachers from 09/10 talking naturally beside the reception counter from 02. Preserve faces, clothes, furniture and light; candid interaction, not corporate posing.
+12. **12-study-corner · 3:2.** Small waiting/study area of the same center with the two reception chairs and a simple bookshelf, natural light and restrained plants. Keep local-center scale and everyday furniture.
+13. **13-classroom-b · 3:2.** Empty wide view of exact tutoring room from 06: single oak table, sage chairs, off-white/sage walls, left window, simple shelf and cork board. Same orientation and daylight, no people.
+14. **14-student-detail · 3:2.** Close view of a recurring adult student's hands writing in an unbranded notebook beside a plain laptop during class. Same oak table and sage furniture from 04/07. Natural hands, no readable notes, no prominent screen text.
+15. **15-center-atmosphere · 16:9.** View from the short corridor established in 02 into recognizable classroom A from 03, warm afternoon light. Match off-white/sage walls, light tile floor, oak tables and green chairs. Quiet closing image for gallery/CTA; no people or writing.
+
+## Review record
+
+01/02 establish one reception with left-hand waiting area and right corridor. 03/04/05/08/09 share classroom A furnishings and colors. 06/13 identify the smaller tutoring room; 07/10 identify the computer room. Teacher faces and wardrobe are carried into 09/10 and combined in 11. 12 retains the waiting chairs. 14 keeps the study materials/table palette; 15 joins reception corridor and classroom A. Image crops can omit part of a room; the photographs are synthetic illustrations, not an architectural survey or exact floor plan. No separate thumbnail set is needed because WordPress generates responsive attachment sizes.

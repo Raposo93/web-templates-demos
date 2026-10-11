@@ -1,4 +1,22 @@
-# Tourist Stay demos
+# web-templates-demos
+
+## Catálogo de medios
+
+Los medios se agrupan por producto siguiendo `wordpress/themes/<name>/`, igual que en `web-templates`. Cada carpeta contiene los derivados de demo, identidad, capturas, condiciones de uso y sumas SHA-256; no contiene un tema instalable.
+
+| Producto | Medios | Documentación |
+| --- | --- | --- |
+| TradeWorks / Nexo Instalaciones | 15 WebP e identidad | [README](wordpress/themes/tradeworks/README.md) |
+| Table & Fork / Patio del Olivo | 15 WebP e identidad | [README](wordpress/themes/table-and-fork/README.md) |
+| LearnStudio / Aula Horizonte | 15 WebP e identidad | [README](wordpress/themes/learnstudio/README.md) |
+| Hearth & Grain / Nativa Home | 24 WebP e identidad | [README](wordpress/themes/hearth-and-grain/README.md) |
+
+Tourist Stay conserva su paquete histórico en `packages/0.1.0/` y su Release publicada, con rutas y bytes intactos. La incorporación de medios de otros temas no publica Releases ni habilita sus asistentes de importación.
+
+Ejecuta `./check.sh` para verificar el paquete histórico, los inventarios completos de medios y sus sumas SHA-256. Las fotografías son sintéticas y sus permisos están separados de la GPL de la identidad.
+
+## Tourist Stay: paquete publicado
+
 
 Public, versioned demo data for the Tourist Stay WordPress block theme. This repository contains only demo packages and their release checks; the installable theme is delivered separately.
 
