@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+  <channel>
+    <title>Patio del Olivo</title>
+    <link>https://patio.example.invalid</link>
+    <description>Table &amp; Fork demo</description>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://patio.example.invalid</wp:base_site_url>
+    <wp:base_blog_url>https://patio.example.invalid</wp:base_blog_url>
+    <item>
+      <title>Inicio</title>
+      <link>https://patio.example.invalid/inicio/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=1</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-hero"} -->
+<div class="wp-block-group alignfull tf-section tf-hero"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-hero-columns"} -->
+<div class="wp-block-columns tf-hero-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO · COCINA MEDITERRÁNEA</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Un patio, una mesa, tiempo para disfrutar.</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Platos de temporada, sabores de siempre y un lugar donde quedarse un poco más. Ven a comer, comparte unos platos, siéntete en casa.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Reserva mesa</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/carta/">Ver la carta</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-hours"} -->
+<p class="tf-hours">Martes a domingo · Comidas desde las 13:00</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/01-hero-restaurant.webp" alt="Comedor cálido con bancos verde oliva y mesas de madera"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">LO SENCILLO, HECHO CON CARIÑO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Mediterráneo, cada día</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Verduras de temporada, arroces para alargar la sobremesa y postres para una cucharada más. Una cocina de barrio que te recibe sin prisas.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PARA COMPARTIR</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Buena comida. Buena compañía.</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Entrantes desde 8,50 € y principales desde 14 €. Una comida tranquila o una cena con amigos: tú marcas el ritmo.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">UN BOCADO DEL PATIO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Algunos favoritos para tu mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className":"tf-featured"} -->
+<div class="wp-block-columns tf-featured"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/07-tomato-salad.webp" alt="Ensalada mediterránea de tomate"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ensalada mediterránea de tomate</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">8,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Tomates maduros, aceitunas, queso fresco y albahaca. Vegetariano.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/11-mushroom-rice.webp" alt="Arroz meloso de setas"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Arroz meloso de setas</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14,00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Arroz con setas de temporada y caldo de verduras. Vegetariano.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/13-baked-cheesecake.webp" alt="Tarta de queso casera"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tarta de queso casera</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Cremosa por dentro, con una superficie ligeramente tostada.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/carta/">Descubre la carta completa</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Olivos y mesas de madera en la terraza del restaurante"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">TU PEQUEÑA PAUSA</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Dentro, fuera, a tu ritmo</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Un comedor luminoso, un patio recogido y el sonido de una conversación que se alarga. Elige tu rincón y disfruta del momento.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/restaurante/">Conoce el restaurante</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-contact-columns"} -->
+<div class="wp-block-columns tf-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Ven al patio</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Dirección de ejemplo: Calle del Olivo, 00 · 00000 Villa Mediterránea, España.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Martes a domingo · 13:00–16:00. Viernes y sábado · 20:00–23:00. Lunes cerrado.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llamar · 900 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@patio.example.invalid">Escríbenos</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph -->
+<p>Reservas por teléfono o correo durante el horario de apertura. Para grupos, indícanos fecha y número de personas. La reserva solo queda confirmada tras nuestra respuesta.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Solo demostración: restaurante, dirección, horarios y contactos ficticios. No uses estos datos para realizar una reserva real.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Fachada del restaurante ficticio Patio del Olivo"/></figure>
+<!-- /wp:image -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://www.openstreetmap.org/">Enlace a mapas · configura tu dirección</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Sustituye este enlace general a mapas por las indicaciones a tu negocio antes de publicar. No se carga ningún mapa automáticamente.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hay un sitio para ti en nuestra mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>¿Una comida para dos o una cena con amigos? Llámanos y buscamos un momento juntos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llama y reserva</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Contacto y horarios</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Vajilla crema y cubiertos en una mesa para dos"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>inicio</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Carta</title>
+      <link>https://patio.example.invalid/carta/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=2</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Nuestra carta</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Ingredientes sencillos, cocina de temporada y precios que se ven de un vistazo.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Entrantes para compartir</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ensalada mediterránea de tomate</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">8,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Tomates maduros, aceitunas, queso fresco y albahaca. Vegetariano.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Croquetas caseras</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">9,00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Cuatro croquetas doradas con relleno cremoso de pollo.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Verduras de temporada asadas</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">9,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Berenjena, calabacín y pimientos con aceite de oliva. Vegano.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Principales</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Dorada a la plancha</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">17,00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Con patatas, limón y un toque de perejil.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Arroz meloso de setas</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14,00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Arroz con setas de temporada y caldo de verduras. Vegetariano.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Pollo asado con patatas</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Hierbas aromáticas, jugo de asado y patatas doradas.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Algo dulce</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tarta de queso casera</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Cremosa por dentro, con una superficie ligeramente tostada.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Crema catalana</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5,00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Crema con cítricos bajo una capa crujiente de caramelo.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Bebidas y notas útiles</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Agua con o sin gas</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">2,50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Botella de 500 ml.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Café</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">1,80 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Solo o con leche.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Precios ilustrativos, impuestos incluidos. Las notas vegetarianas y veganas describen las recetas de ejemplo. Consulta con el restaurante los ingredientes, alérgenos y posibles contaminaciones cruzadas antes de pedir.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hay un sitio para ti en nuestra mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>¿Una comida para dos o una cena con amigos? Llámanos y buscamos un momento juntos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llama y reserva</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Contacto y horarios</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Vajilla crema y cubiertos en una mesa para dos"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>carta</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>El restaurante</title>
+      <link>https://patio.example.invalid/restaurante/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=3</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Una cocina con alma de barrio</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Una mesa acogedora, recetas para compartir y espacio para una conversación larga.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/04-dining-room.webp" alt="Comedor luminoso con bancos verde oliva"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">El placer de comer bien cada día</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>En este restaurante ficticio imaginamos un pequeño equipo que cocina recetas mediterráneas con cuidado. La carta acompaña a la temporada y el comedor recibe tanto comidas rápidas como largas sobremesas.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Olivos y mesas de madera en la terraza del restaurante"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">TU PEQUEÑA PAUSA</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Dentro, fuera, a tu ritmo</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Un comedor luminoso, un patio recogido y el sonido de una conversación que se alarga. Elige tu rincón y disfruta del momento.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/restaurante/">Conoce el restaurante</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/05-restaurant-bar.webp" alt="Barra del restaurante con cafetera"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/15-table-service.webp" alt="Servicio de un plato de dorada en una mesa"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cuidado de la cocina a la mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Platos recién preparados, un café después de comer y una bienvenida cercana. Sustituye esta historia de ejemplo por la de tu equipo y tu negocio.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hay un sitio para ti en nuestra mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>¿Una comida para dos o una cena con amigos? Llámanos y buscamos un momento juntos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llama y reserva</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Contacto y horarios</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Vajilla crema y cubiertos en una mesa para dos"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>restaurante</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Galería</title>
+      <link>https://patio.example.invalid/galeria/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=4</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Un paseo por el patio</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Nuestras mesas, nuestra cocina y los pequeños detalles. Fotografías sintéticas de un restaurante ficticio.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-gallery"} -->
+<div class="wp-block-group tf-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/01-hero-restaurant.webp" alt="Comedor principal"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Fachada del restaurante"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Terraza exterior"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/04-dining-room.webp" alt="Detalles del comedor"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/05-restaurant-bar.webp" alt="Barra y cafetera"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Mesa preparada para dos"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/07-tomato-salad.webp" alt="Ensalada mediterránea de tomate"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/08-homemade-croquettes.webp" alt="Croquetas caseras"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/09-roasted-vegetables.webp" alt="Verduras de temporada asadas"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/10-grilled-sea-bream.webp" alt="Dorada a la plancha"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/11-mushroom-rice.webp" alt="Arroz meloso de setas"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/12-roast-chicken.webp" alt="Pollo asado con patatas"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/13-baked-cheesecake.webp" alt="Tarta de queso casera"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/14-crema-catalana.webp" alt="Crema catalana"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/15-table-service.webp" alt="Servicio de mesa"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hay un sitio para ti en nuestra mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>¿Una comida para dos o una cena con amigos? Llámanos y buscamos un momento juntos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llama y reserva</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Contacto y horarios</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Vajilla crema y cubiertos en una mesa para dos"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>galeria</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Contacto y reservas</title>
+      <link>https://patio.example.invalid/contacto/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=5</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">¿Te guardamos una mesa?</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Elige el día, reúne a los tuyos y ponte en contacto.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-contact-columns"} -->
+<div class="wp-block-columns tf-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Ven al patio</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Dirección de ejemplo: Calle del Olivo, 00 · 00000 Villa Mediterránea, España.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Martes a domingo · 13:00–16:00. Viernes y sábado · 20:00–23:00. Lunes cerrado.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llamar · 900 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@patio.example.invalid">Escríbenos</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph -->
+<p>Reservas por teléfono o correo durante el horario de apertura. Para grupos, indícanos fecha y número de personas. La reserva solo queda confirmada tras nuestra respuesta.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Solo demostración: restaurante, dirección, horarios y contactos ficticios. No uses estos datos para realizar una reserva real.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Fachada del restaurante ficticio Patio del Olivo"/></figure>
+<!-- /wp:image -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://www.openstreetmap.org/">Enlace a mapas · configura tu dirección</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Sustituye este enlace general a mapas por las indicaciones a tu negocio antes de publicar. No se carga ningún mapa automáticamente.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://reservations.example.invalid/">Reservas externas · enlace de ejemplo</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Ejemplo opcional: configura la URL de tu proveedor o elimina este bloque.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hay un sitio para ti en nuestra mesa</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>¿Una comida para dos o una cena con amigos? Llámanos y buscamos un momento juntos.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Llama y reserva</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contacto/">Contacto y horarios</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Vajilla crema y cubiertos en una mesa para dos"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>contacto</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

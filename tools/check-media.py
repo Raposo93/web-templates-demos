@@ -20,7 +20,7 @@ for theme, expected in {
         listed.add(name)
         assert hashlib.sha256(path.read_bytes()).hexdigest() == digest, f'Checksum mismatch: {path}'
     actual = {str(path.relative_to(product)) for path in product.rglob('*')
-              if path.is_file() and path.name != 'SHA256SUMS'}
+              if path.is_file() and path.name != 'SHA256SUMS' and 'packages' not in path.relative_to(product).parts}
     assert actual == listed, f'Incomplete inventory: {theme}'
     photos = list((product / 'assets/images/demo').glob('*.webp'))
     assert len(photos) == expected, f'Unexpected photograph count: {theme}'

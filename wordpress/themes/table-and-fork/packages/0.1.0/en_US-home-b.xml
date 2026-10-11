@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+  <channel>
+    <title>Patio del Olivo</title>
+    <link>https://patio.example.invalid</link>
+    <description>Table &amp; Fork demo</description>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://patio.example.invalid</wp:base_site_url>
+    <wp:base_blog_url>https://patio.example.invalid</wp:base_blog_url>
+    <item>
+      <title>Home</title>
+      <link>https://patio.example.invalid/home/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=1</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO · MEDITERRANEAN KITCHEN</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Choose a dish. Share a table.</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Seasonal vegetables, rice dishes and homemade desserts. Explore the menu and contact us to enquire about a table.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/menu/">See the menu</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Enquire about a booking</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/11-mushroom-rice.webp" alt="Creamy mushroom rice from the fictional menu"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">A TASTE OF THE PATIO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A few favourites for your table</h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className":"tf-featured"} -->
+<div class="wp-block-columns tf-featured"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/07-tomato-salad.webp" alt="Mediterranean tomato salad"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Mediterranean tomato salad</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">8.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Ripe tomatoes, olives, fresh cheese and basil. Vegetarian.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/11-mushroom-rice.webp" alt="Creamy mushroom rice"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Creamy mushroom rice</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Rice with seasonal mushrooms and vegetable stock. Vegetarian.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish tf-dish-photo"} -->
+<div class="wp-block-group tf-dish tf-dish-photo"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/13-baked-cheesecake.webp" alt="Baked cheesecake"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Baked cheesecake</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Creamy in the middle, with a lightly toasted top.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/menu/">Explore the full menu</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">From starters to dessert</h2>
+<!-- /wp:heading -->
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Starters to share</h3>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Mediterranean tomato salad</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">8.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Ripe tomatoes, olives, fresh cheese and basil. Vegetarian.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Main dishes</h3>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Grilled sea bream</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">17.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>With potatoes, lemon and a little parsley.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Something sweet</h3>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Crema catalana</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Citrus custard under a crisp caramel crust.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/menu/">Explore the full menu</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-contact-columns"} -->
+<div class="wp-block-columns tf-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Come to the patio</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example address: Calle del Olivo, 00 · 00000 Villa Mediterránea, Spain.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Tuesday–Sunday · 13:00–16:00. Friday and Saturday · 20:00–23:00. Closed Monday.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call · 900 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@patio.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph -->
+<p>Bookings by phone or email during opening hours. For groups, tell us the date and party size. A booking is only confirmed after our reply.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Demo only: the restaurant, address, opening hours and contact details are fictional. Do not use these details to make a real reservation.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Facade of the fictional Patio del Olivo restaurant"/></figure>
+<!-- /wp:image -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://www.openstreetmap.org/">Map link · configure your address</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Replace this general map link with directions to your business before publishing. No map is loaded automatically.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Olive trees and wooden tables on the restaurant terrace"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">YOUR LITTLE PAUSE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Inside, outside, at your own pace</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A bright dining room, a sheltered patio and the sound of a conversation that carries on. Pick your corner and enjoy the moment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/restaurant/">Get to know the restaurant</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">There is a place for you at our table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Lunch for two or dinner with friends? Call us and we will find a time together.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call to book</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Contact and opening hours</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Cream tableware and cutlery set for two"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>home</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Menu</title>
+      <link>https://patio.example.invalid/menu/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=2</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Our menu</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Simple ingredients, seasonal cooking and prices you can see at a glance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Starters to share</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Mediterranean tomato salad</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">8.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Ripe tomatoes, olives, fresh cheese and basil. Vegetarian.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Homemade croquettes</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">9.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Four golden croquettes with a creamy chicken filling.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Seasonal roasted vegetables</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">9.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Aubergine, courgette and peppers with olive oil. Vegan.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Main dishes</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Grilled sea bream</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">17.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>With potatoes, lemon and a little parsley.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Creamy mushroom rice</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Rice with seasonal mushrooms and vegetable stock. Vegetarian.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Roast chicken with potatoes</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">14.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Herbs, roasting juices and crisp potatoes.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-menu-category"} -->
+<div class="wp-block-group alignfull tf-section tf-menu-category"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Something sweet</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Baked cheesecake</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Creamy in the middle, with a lightly toasted top.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Crema catalana</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">5.00 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Citrus custard under a crisp caramel crust.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Drinks and useful notes</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Still or sparkling water</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">2.50 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>500 ml bottle.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish"} -->
+<div class="wp-block-group tf-dish"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-copy"} -->
+<div class="wp-block-group tf-dish-copy"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-dish-heading"} -->
+<div class="wp-block-group tf-dish-heading"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Coffee</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-price"} -->
+<p class="tf-price">1.80 €</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph -->
+<p>Espresso or with milk.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Illustrative prices, including tax. Vegetarian and vegan notes describe the demo recipes. Ask the restaurant about ingredients, allergens and possible cross-contact before ordering.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">There is a place for you at our table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Lunch for two or dinner with friends? Call us and we will find a time together.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call to book</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Contact and opening hours</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Cream tableware and cutlery set for two"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>menu</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>The restaurant</title>
+      <link>https://patio.example.invalid/restaurant/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=3</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">A kitchen with a neighbourhood soul</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">A welcoming table, recipes to share and room for a long conversation.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/04-dining-room.webp" alt="Light-filled dining room with familiar olive green seating"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">The pleasure of everyday food</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>In this fictional restaurant, we imagine a small team cooking Mediterranean recipes with care. The menu follows the season, and the dining room welcomes quick lunches and long afternoons alike.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-surface"} -->
+<div class="wp-block-group alignfull tf-section tf-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-image-text"} -->
+<div class="wp-block-columns tf-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Olive trees and wooden tables on the restaurant terrace"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">YOUR LITTLE PAUSE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Inside, outside, at your own pace</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A bright dining room, a sheltered patio and the sound of a conversation that carries on. Pick your corner and enjoy the moment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/restaurant/">Get to know the restaurant</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/05-restaurant-bar.webp" alt="Restaurant bar with an espresso machine"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/15-table-service.webp" alt="A plate of sea bream being served at a table"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Care from kitchen to table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Freshly prepared dishes, a coffee after lunch and a warm welcome. Replace this example story with your own people and history.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">There is a place for you at our table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Lunch for two or dinner with friends? Call us and we will find a time together.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call to book</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Contact and opening hours</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Cream tableware and cutlery set for two"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>restaurant</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>https://patio.example.invalid/gallery/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=4</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">A look around the patio</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Our tables, our cooking and the small details. Synthetic photographs of a fictional restaurant.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"layout":{"type":"constrained"},"className":"tf-gallery"} -->
+<div class="wp-block-group tf-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/01-hero-restaurant.webp" alt="Main dining room"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Restaurant facade"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/03-outdoor-terrace.webp" alt="Outdoor terrace"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/04-dining-room.webp" alt="Dining room details"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/05-restaurant-bar.webp" alt="Coffee bar"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Table set for two"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/07-tomato-salad.webp" alt="Mediterranean tomato salad"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/08-homemade-croquettes.webp" alt="Homemade croquettes"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/09-roasted-vegetables.webp" alt="Seasonal roasted vegetables"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/10-grilled-sea-bream.webp" alt="Grilled sea bream"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/11-mushroom-rice.webp" alt="Creamy mushroom rice"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/12-roast-chicken.webp" alt="Roast chicken with potatoes"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/13-baked-cheesecake.webp" alt="Baked cheesecake"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/14-crema-catalana.webp" alt="Crema catalana"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/15-table-service.webp" alt="Table service"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">There is a place for you at our table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Lunch for two or dinner with friends? Call us and we will find a time together.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call to book</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Contact and opening hours</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Cream tableware and cutlery set for two"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>gallery</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Contact and reservations</title>
+      <link>https://patio.example.invalid/contact/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://patio.example.invalid/DEMO_IMPORT_TOKEN/?page_id=5</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-page-intro"} -->
+<div class="wp-block-group alignfull tf-section tf-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tf-eyebrow"} -->
+<p class="tf-eyebrow">PATIO DEL OLIVO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Shall we save you a table?</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tf-lead"} -->
+<p class="tf-lead">Choose your day, bring your people and get in touch.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section"} -->
+<div class="wp-block-group alignfull tf-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-contact-columns"} -->
+<div class="wp-block-columns tf-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Come to the patio</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example address: Calle del Olivo, 00 · 00000 Villa Mediterránea, Spain.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Tuesday–Sunday · 13:00–16:00. Friday and Saturday · 20:00–23:00. Closed Monday.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call · 900 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@patio.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph -->
+<p>Bookings by phone or email during opening hours. For groups, tell us the date and party size. A booking is only confirmed after our reply.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Demo only: the restaurant, address, opening hours and contact details are fictional. Do not use these details to make a real reservation.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/02-restaurant-facade.webp" alt="Facade of the fictional Patio del Olivo restaurant"/></figure>
+<!-- /wp:image -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://www.openstreetmap.org/">Map link · configure your address</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Replace this general map link with directions to your business before publishing. No map is loaded automatically.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://reservations.example.invalid/">External bookings · example link</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tf-demo-note"} -->
+<p class="tf-demo-note">Optional example: configure your provider URL or remove this block.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tf-section tf-closing"} -->
+<div class="wp-block-group alignfull tf-section tf-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tf-closing-columns"} -->
+<div class="wp-block-columns tf-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">There is a place for you at our table</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Lunch for two or dinner with friends? Call us and we will find a time together.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call to book</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://patio.example.invalid/contact/">Contact and opening hours</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tf-photo"} -->
+<figure class="wp-block-image size-full tf-photo"><img src="https://patio.example.invalid/media/06-table-setting.webp" alt="Cream tableware and cutlery set for two"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>contact</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_table_and_fork_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

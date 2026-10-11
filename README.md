@@ -11,7 +11,7 @@ Los medios se agrupan por producto siguiendo `wordpress/themes/<name>/`, igual q
 | LearnStudio / Aula Horizonte | 15 WebP e identidad | [README](wordpress/themes/learnstudio/README.md) |
 | Hearth & Grain / Nativa Home | 24 WebP e identidad | [README](wordpress/themes/hearth-and-grain/README.md) |
 
-Tourist Stay conserva su paquete histórico en `packages/0.1.0/` y su Release publicada, con rutas y bytes intactos. La incorporación de medios de otros temas no publica Releases ni habilita sus asistentes de importación.
+Tourist Stay conserva su paquete histórico en `packages/0.1.0/` y su Release publicada, con rutas y bytes intactos. TradeWorks, Table & Fork y LearnStudio incluyen también sus paquetes A/B ES/EN en `wordpress/themes/<tema>/packages/0.1.0/`, destinados a Releases propias `<tema>-demo-0.1.0`. Los temas descargan desde esas Releases, no desde el árbol de carpetas. Hearth & Grain conserva solo medios manuales: su adaptador WooCommerce permanece pendiente.
 
 Ejecuta `./check.sh` para verificar el paquete histórico, los inventarios completos de medios y sus sumas SHA-256. Las fotografías son sintéticas y sus permisos están separados de la GPL de la identidad.
 

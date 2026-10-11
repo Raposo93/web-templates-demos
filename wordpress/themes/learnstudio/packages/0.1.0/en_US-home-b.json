@@ -1,0 +1,144 @@
+{
+    "version": "0.1.0",
+    "theme_version": "0.1.0",
+    "locale": "en_US",
+    "demo": "home-b",
+    "tagline": "Learn nearby, at your own pace",
+    "pages": [
+        {
+            "slug": "home",
+            "title": "Home"
+        },
+        {
+            "slug": "courses",
+            "title": "Courses"
+        },
+        {
+            "slug": "team",
+            "title": "Team"
+        },
+        {
+            "slug": "center",
+            "title": "The center"
+        },
+        {
+            "slug": "contact",
+            "title": "Contact"
+        },
+        {
+            "slug": "beginner-english",
+            "title": "Beginner English"
+        },
+        {
+            "slug": "intermediate-english",
+            "title": "Intermediate English"
+        },
+        {
+            "slug": "beginner-french",
+            "title": "Beginner French"
+        },
+        {
+            "slug": "spanish-for-newcomers",
+            "title": "Spanish for newcomers"
+        },
+        {
+            "slug": "practical-computing",
+            "title": "Practical computing"
+        },
+        {
+            "slug": "academic-support",
+            "title": "Academic support"
+        }
+    ],
+    "media": [
+        {
+            "file": "01-facade.webp",
+            "sha256": "be1e9de3fb5f7f024159bd0d4e2e5ed0d25980db93d734c38e7043a704de2abd",
+            "alt": "Street-level glass entrance to the academy"
+        },
+        {
+            "file": "02-reception.webp",
+            "sha256": "4f918f815a5c56828b41453dfc9c5c7d848811b1beea5cce456bc2ad581f0576",
+            "alt": "Oak reception counter and two sage waiting chairs"
+        },
+        {
+            "file": "03-main-classroom-hero.webp",
+            "sha256": "a88c100d98a1fb2128effa7f3d3d437b096b67786d4129d514741cce2f61e0d4",
+            "alt": "Bright classroom with modular tables and green chairs"
+        },
+        {
+            "file": "04-language-class.webp",
+            "sha256": "1ed98ac880bea5ab53097b5343f529135e773408629ac1165a7c7fbfd74a9846",
+            "alt": "Teacher guiding six adults in a language class"
+        },
+        {
+            "file": "05-conversation-workshop.webp",
+            "sha256": "4e31511530ec2c0cf9dfb5fdba42575d98b5044c34fd109323a2a08da7413620",
+            "alt": "Four adults practising conversation in small groups"
+        },
+        {
+            "file": "06-individual-tutoring.webp",
+            "sha256": "3061eddd700a981bc598e4d1a62925ad3bebe45f46591750336d646507009dd6",
+            "alt": "Teacher explaining an exercise to an adult learner"
+        },
+        {
+            "file": "07-computer-training.webp",
+            "sha256": "259a74d4505c532e9528d8f8445a9b525b70bca1d3f77f1feae64dba5070c943",
+            "alt": "Practical computing class in a six-computer room"
+        },
+        {
+            "file": "08-study-materials.webp",
+            "sha256": "0c9e135ee131e34c86ee31c4c8e30a926ccf2011d5c95582afaf20d0c4ff542e",
+            "alt": "Notebooks and study materials on a classroom table"
+        },
+        {
+            "file": "09-teacher-a-portrait.webp",
+            "sha256": "a29d79520065adde587205f5c9fbbf0fdc7656f841f29b2b45d46232b439a7fe",
+            "alt": "Teacher Elena with a navy sweater in the main classroom"
+        },
+        {
+            "file": "10-teacher-b-portrait.webp",
+            "sha256": "2b9f28023b330dd46cc6afd63a9af3495d6a5b2a6749ce2c6dea07004f3781ae",
+            "alt": "Teacher Daniel with glasses and an olive overshirt"
+        },
+        {
+            "file": "11-teaching-team.webp",
+            "sha256": "2e69fbf943508dcb1bc4076b844fccba37d8142844f4753dabfd06d605e0d924",
+            "alt": "Two teachers talking beside reception"
+        },
+        {
+            "file": "12-study-corner.webp",
+            "sha256": "769b45c8cc299e170fb081a1ba29b7d2a60e470b79e956521f200dc406b7670b",
+            "alt": "Small study corner with chairs and a bookshelf"
+        },
+        {
+            "file": "13-classroom-b.webp",
+            "sha256": "a7f48e207f14c5c3cebaf55f8c9fe212f42f5b14f932b54e482ad17288c2c8aa",
+            "alt": "Small tutoring classroom with an oak table"
+        },
+        {
+            "file": "14-student-detail.webp",
+            "sha256": "b7660452466e344d231b19c968e7294a3d7338b842e0ee86c28476d1444dcc53",
+            "alt": "Adult learner taking notes beside a laptop"
+        },
+        {
+            "file": "15-center-atmosphere.webp",
+            "sha256": "a9eecd2b7937ad4bf720cfdf295feb733e176c151eff23c7f11f58cbd0304276",
+            "alt": "Short corridor opening into the classroom in afternoon light"
+        },
+        {
+            "file": "horizonte-icon.png",
+            "sha256": "e592ef9c2c8ec56e9493b7e6b954ae83a73c616602a0579b39bbb8815b9ae80d",
+            "alt": "Aula Horizonte"
+        },
+        {
+            "file": "horizonte-logo.png",
+            "sha256": "9dee2b7ae7fc2776c34cbd08c5f6df885dc7474f6a3a66d4cf3dc65ab7e35e62",
+            "alt": "Aula Horizonte"
+        }
+    ],
+    "content": {
+        "file": "en_US-home-b.xml",
+        "sha256": "15c9f1f18cb775d3e1841394acc58800b36395adadffab4ab336900624c9c0d8"
+    }
+}

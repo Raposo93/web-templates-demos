@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+  <channel>
+    <title>Nexo Instalaciones</title>
+    <link>https://nexo.example.invalid</link>
+    <description>TradeWorks demo</description>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://nexo.example.invalid</wp:base_site_url>
+    <wp:base_blog_url>https://nexo.example.invalid</wp:base_blog_url>
+    <item>
+      <title>Home</title>
+      <link>https://nexo.example.invalid/home/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=1</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-hero"} -->
+<div class="wp-block-group alignfull tw-section tw-hero"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-hero-columns"} -->
+<div class="wp-block-columns tw-hero-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">ELECTRICITY + AIR CONDITIONING</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Your space.
+In good hands.</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">Thoughtful installations, straightforward repairs and a team close to home. For homes, shared buildings and small businesses in the Henares area.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call us · 000 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Request a quote</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tw-hours"} -->
+<p class="tw-hours">Monday–Friday · 08:00–18:00</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/hero-principal.webp" alt="Technician fitting a socket in a synthetic home scene"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-trust"} -->
+<div class="wp-block-group alignfull tw-section tw-trust"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">01 / LISTEN</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">We understand the job</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Tell us what is happening and where. We agree the next step before visiting.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">02 / EXPLAIN</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Clear scope and price</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We explain the options and prepare a quote before the agreed work begins.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">03 / TAKE CARE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A considered finish</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We protect the work area and show you how to use your installation.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">WHAT WE DO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Practical solutions for everyday spaces</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>One team for electricity and air conditioning. Choose a service and tell us what you need.</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns {"className":"tw-service-grid"} -->
+<div class="wp-block-columns tw-service-grid"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-electricidad.webp" alt="Technician fitting a wall socket, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Electrical installations</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Sockets, lighting and electrical panel improvements for homes and businesses. We assess the existing installation first.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-climatizacion.webp" alt="Technician installing an indoor air conditioning unit, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Air conditioning</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Equipment selection, installation and checks for comfortable rooms. We discuss the space, usage and placement with you.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-averias.webp" alt="Technician testing an electrical panel, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Fault finding and repairs</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Tripping breakers, sockets that stop working or equipment that needs checking. Call us to describe the problem and arrange a visit.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-mantenimiento.webp" alt="Two technicians checking household equipment, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Planned maintenance</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Scheduled checks of electrical and air conditioning installations for homes, shared buildings and small shops.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-image-text"} -->
+<div class="wp-block-columns tw-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/empresa-equipo.webp" alt="Two technicians beside their van, synthetic team"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO INSTALACIONES</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A small team. A direct conversation.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We are a fictional local company specialising in electricity and air conditioning. Our example team works with homeowners, building managers and small businesses.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/about/">Meet the team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-surface"} -->
+<div class="wp-block-group alignfull tw-section tw-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">THE RESULT</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Work that fits the space</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project-grid"} -->
+<div class="wp-block-group tw-project-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-cuadro-electrico.webp" alt="A clearer electrical panel, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Electrical work · Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A clearer electrical panel</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: renewed protections and clearly identified circuits in a home.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-aire-acondicionado.webp" alt="Comfort in the living room, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Air conditioning · Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Comfort in the living room</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: an indoor split positioned to suit the living space.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-iluminacion-comercial.webp" alt="Light for a neighbourhood shop, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Lighting · Coslada</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Light for a neighbourhood shop</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: balanced lighting for the counter and display area.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/projects/">View example projects</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-surface"} -->
+<div class="wp-block-group alignfull tw-section tw-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">CLOSE TO YOU</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Henares area is our starting point</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example coverage: Alcalá de Henares, Torrejón de Ardoz, Coslada and San Fernando de Henares. Call with your address so we can confirm travel and scheduling before making arrangements.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-localities"} -->
+<div class="wp-block-group tw-localities"><!-- wp:paragraph -->
+<p>Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Coslada</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>San Fernando de Henares</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Check your area</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-closing"} -->
+<div class="wp-block-group alignfull tw-section tw-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-closing-columns"} -->
+<div class="wp-block-columns tw-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Shall we look at your next job?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A call is a good place to start. Tell us about your space and we will agree the next step.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call us · 000 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Request a quote</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/resultado-en-uso.webp" alt="Living room with completed air conditioning, synthetic scene"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>home</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://nexo.example.invalid/services/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=2</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-page-intro"} -->
+<div class="wp-block-group alignfull tw-section tw-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO / LOCAL INSTALLATIONS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Electricity and air conditioning</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">For your home, shared building or business. An understandable scope and a direct contact for every job.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">WHAT WE DO</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Practical solutions for everyday spaces</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>One team for electricity and air conditioning. Choose a service and tell us what you need.</p>
+<!-- /wp:paragraph -->
+<!-- wp:columns {"className":"tw-service-grid"} -->
+<div class="wp-block-columns tw-service-grid"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-electricidad.webp" alt="Technician fitting a wall socket, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Electrical installations</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Sockets, lighting and electrical panel improvements for homes and businesses. We assess the existing installation first.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-climatizacion.webp" alt="Technician installing an indoor air conditioning unit, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Air conditioning</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Equipment selection, installation and checks for comfortable rooms. We discuss the space, usage and placement with you.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-averias.webp" alt="Technician testing an electrical panel, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Fault finding and repairs</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Tripping breakers, sockets that stop working or equipment that needs checking. Call us to describe the problem and arrange a visit.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card"} -->
+<div class="wp-block-group tw-card"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/servicio-mantenimiento.webp" alt="Two technicians checking household equipment, synthetic image"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-card-body"} -->
+<div class="wp-block-group tw-card-body"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Planned maintenance</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Scheduled checks of electrical and air conditioning installations for homes, shared buildings and small shops.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Discuss your job</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-image-text"} -->
+<div class="wp-block-columns tw-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/detalle-diagnostico.webp" alt="Technician testing a cable, synthetic diagnostic scene"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Start with the right diagnosis</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Explain the symptoms when you call. We assess the installation before suggesting work; photos and an equipment model can help us plan the visit.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-contact-columns"} -->
+<div class="wp-block-columns tw-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">LET’S TALK</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you need</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Call during office hours. Have your town, type of property and a short description ready. We will discuss whether a visit is needed to prepare a quote.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call · 000 000 000</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hours and other ways to contact us</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Monday–Friday · 08:00–18:00. Visits by appointment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Example base: Calle del Taller, 00 · Alcalá de Henares. No walk-in reception.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@nexo.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://wa.me/34000000000">WhatsApp (optional)</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tw-demo-note"} -->
+<p class="tw-demo-note">Demo only: company, address and contact links are fictional. Do not use these details to request a real service.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>services</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://nexo.example.invalid/projects/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=3</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-page-intro"} -->
+<div class="wp-block-group alignfull tw-section tw-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO / LOCAL INSTALLATIONS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Examples of a job well finished</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">Electrical improvements, practical lighting and air conditioning that fits the room. All projects shown here are fictional.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">EXAMPLE PROJECTS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">See the finish. Understand the work.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>These synthetic scenes illustrate the kinds of work a local company could show here. Replace them with your own projects.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project-grid"} -->
+<div class="wp-block-group tw-project-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-cuadro-electrico.webp" alt="A clearer electrical panel, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Electrical work · Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A clearer electrical panel</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: renewed protections and clearly identified circuits in a home.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-aire-acondicionado.webp" alt="Comfort in the living room, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Air conditioning · Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Comfort in the living room</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: an indoor split positioned to suit the living space.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-iluminacion-comercial.webp" alt="Light for a neighbourhood shop, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Lighting · Coslada</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Light for a neighbourhood shop</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: balanced lighting for the counter and display area.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-unidad-exterior.webp" alt="An outdoor unit with a tidy finish, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Air conditioning · San Fernando de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">An outdoor unit with a tidy finish</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: outdoor equipment with planned pipe routing and drainage.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-renovacion-electrica.webp" alt="Sockets where they are needed, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Electrical renovation · Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sockets where they are needed</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: new connection points for a home workspace.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-project"} -->
+<div class="wp-block-group tw-project"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/trabajo-climatizacion-local.webp" alt="A more comfortable workspace, synthetic example"/></figure>
+<!-- /wp:image -->
+<!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">Air conditioning · Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A more comfortable workspace</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example: ceiling air conditioning for a small office.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-closing"} -->
+<div class="wp-block-group alignfull tw-section tw-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-closing-columns"} -->
+<div class="wp-block-columns tw-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Shall we look at your next job?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A call is a good place to start. Tell us about your space and we will agree the next step.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call us · 000 000 000</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Request a quote</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/resultado-en-uso.webp" alt="Living room with completed air conditioning, synthetic scene"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>projects</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Coverage</title>
+      <link>https://nexo.example.invalid/coverage/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=4</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-page-intro"} -->
+<div class="wp-block-group alignfull tw-section tw-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO / LOCAL INSTALLATIONS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Local service, with agreed visits</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">Tell us where the work is. We confirm coverage, timing and any travel costs before arranging a visit.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-surface"} -->
+<div class="wp-block-group alignfull tw-section tw-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">CLOSE TO YOU</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Henares area is our starting point</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example coverage: Alcalá de Henares, Torrejón de Ardoz, Coslada and San Fernando de Henares. Call with your address so we can confirm travel and scheduling before making arrangements.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-localities"} -->
+<div class="wp-block-group tw-localities"><!-- wp:paragraph -->
+<p>Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Coslada</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>San Fernando de Henares</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Check your area</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Homes, shared buildings and shops</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Let us know about access, parking and building rules when you contact us.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Outside the example area?</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Call to check. This demo does not promise service outside the listed towns or emergency availability.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-contact-columns"} -->
+<div class="wp-block-columns tw-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">LET’S TALK</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you need</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Call during office hours. Have your town, type of property and a short description ready. We will discuss whether a visit is needed to prepare a quote.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call · 000 000 000</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hours and other ways to contact us</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Monday–Friday · 08:00–18:00. Visits by appointment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Example base: Calle del Taller, 00 · Alcalá de Henares. No walk-in reception.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@nexo.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://wa.me/34000000000">WhatsApp (optional)</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tw-demo-note"} -->
+<p class="tw-demo-note">Demo only: company, address and contact links are fictional. Do not use these details to request a real service.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>coverage</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://nexo.example.invalid/about/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=5</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-page-intro"} -->
+<div class="wp-block-group alignfull tw-section tw-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO / LOCAL INSTALLATIONS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">People who take care of the details</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">Nexo Instalaciones is a fictional small company. This page shows how to introduce your own team without invented credentials or reviews.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-image-text"} -->
+<div class="wp-block-columns tw-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/empresa-equipo.webp" alt="Two technicians beside their van, synthetic team"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO INSTALACIONES</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A small team. A direct conversation.</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We are a fictional local company specialising in electricity and air conditioning. Our example team works with homeowners, building managers and small businesses.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/about/">Meet the team</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-trust"} -->
+<div class="wp-block-group alignfull tw-section tw-trust"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">01 / LISTEN</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">We understand the job</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Tell us what is happening and where. We agree the next step before visiting.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">02 / EXPLAIN</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Clear scope and price</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We explain the options and prepare a quote before the agreed work begins.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">03 / TAKE CARE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A considered finish</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We protect the work area and show you how to use your installation.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-image-text"} -->
+<div class="wp-block-columns tw-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Prepared for the visit</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Our example van carries organised tools for electrical and air conditioning work. We plan equipment and materials around the agreed job.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"tw-photo"} -->
+<figure class="wp-block-image size-full tw-photo"><img src="https://nexo.example.invalid/media/empresa-equipamiento.webp" alt="Organised tools in a service van, synthetic image"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-contact-columns"} -->
+<div class="wp-block-columns tw-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">LET’S TALK</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you need</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Call during office hours. Have your town, type of property and a short description ready. We will discuss whether a visit is needed to prepare a quote.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call · 000 000 000</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hours and other ways to contact us</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Monday–Friday · 08:00–18:00. Visits by appointment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Example base: Calle del Taller, 00 · Alcalá de Henares. No walk-in reception.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@nexo.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://wa.me/34000000000">WhatsApp (optional)</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tw-demo-note"} -->
+<p class="tw-demo-note">Demo only: company, address and contact links are fictional. Do not use these details to request a real service.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>about</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://nexo.example.invalid/contact/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://nexo.example.invalid/DEMO_IMPORT_TOKEN/?page_id=6</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-page-intro"} -->
+<div class="wp-block-group alignfull tw-section tw-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">NEXO / LOCAL INSTALLATIONS</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">A direct line to your next step</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"tw-lead"} -->
+<p class="tw-lead">Tell us about the job and your town. No forms or accounts: choose the contact method that works for you.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section"} -->
+<div class="wp-block-group alignfull tw-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"tw-contact-columns"} -->
+<div class="wp-block-columns tw-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">LET’S TALK</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you need</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Call during office hours. Have your town, type of property and a short description ready. We will discuss whether a visit is needed to prepare a quote.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="tel:+34000000000">Call · 000 000 000</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hours and other ways to contact us</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Monday–Friday · 08:00–18:00. Visits by appointment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Example base: Calle del Taller, 00 · Alcalá de Henares. No walk-in reception.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="mailto:hello@nexo.example.invalid">Email us</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://wa.me/34000000000">WhatsApp (optional)</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"tw-demo-note"} -->
+<p class="tw-demo-note">Demo only: company, address and contact links are fictional. Do not use these details to request a real service.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"tw-section tw-surface"} -->
+<div class="wp-block-group alignfull tw-section tw-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"tw-eyebrow"} -->
+<p class="tw-eyebrow">CLOSE TO YOU</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Henares area is our starting point</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Example coverage: Alcalá de Henares, Torrejón de Ardoz, Coslada and San Fernando de Henares. Call with your address so we can confirm travel and scheduling before making arrangements.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"tw-localities"} -->
+<div class="wp-block-group tw-localities"><!-- wp:paragraph -->
+<p>Alcalá de Henares</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Torrejón de Ardoz</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Coslada</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>San Fernando de Henares</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://nexo.example.invalid/contact/">Check your area</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>contact</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tradeworks_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

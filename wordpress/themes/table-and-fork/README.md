@@ -11,3 +11,9 @@ Código e identidad: GPL-2.0-or-later (`LICENSE`). Las fotografías tienen el pe
 Los derivados se copian sin modificar desde `wordpress/themes/table-and-fork/` de `web-templates`, commit `19347eb`. No hay generación en este repositorio: las herramientas y fuentes de generación permanecen en el producto de origen. No se incluyen originales, credenciales, datos de sitios reales ni dependencias de ejecución.
 
 Comprueba integridad desde esta carpeta con `sha256sum -c SHA256SUMS`; desde la raíz, ejecuta `./check.sh`. Esta entrega conserva los formatos originales y no acredita nuevas pruebas de compatibilidad del tema.
+
+## Paquete del asistente 0.1.0
+
+`packages/0.1.0/` contiene los cuatro manifiestos JSON y WXR (A/B × ES/EN), los 17 medios raster, las capturas y licencias del asistente. La Release `table-and-fork-demo-0.1.0` entrega estos archivos sin subdirectorios para conservar las URLs del tema. Los recursos de `assets/` permiten inspección manual; el asistente usa la Release inmutable, no las rutas de `main`. No se sustituyen adjuntos publicados.
+
+Antes de publicar, ejecuta `./check.sh` desde la raíz. Crea la Release desde el commit que contiene el paquete comprobado e incluye todos sus archivos, incluido `SHA256SUMS`; verifica después las descargas sin autenticación. La publicación no sustituye las pruebas del asistente en WordPress.
