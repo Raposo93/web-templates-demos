@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+  <channel>
+    <title>Casa Brisa</title>
+    <link>https://casabrisa.example</link>
+    <description>Tourist Stay demo</description>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://casabrisa.example</wp:base_site_url>
+    <wp:base_blog_url>https://casabrisa.example</wp:base_blog_url>
+    <item>
+      <title>Home</title>
+      <link>https://casabrisa.example/home/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://casabrisa.example/DEMO_IMPORT_TOKEN/?page_id=1</guid>
+      <content:encoded><![CDATA[<!-- wp:cover {"url":"https://casabrisa.example/media/pool-hero.webp","dimRatio":70,"overlayColor":"text","isUserOverlayColor":true,"minHeight":640,"align":"full","className":"ts-hero ts-hero-large","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"3rem","bottom":"3rem","left":"clamp(1rem, 4vw, 3rem)","right":"clamp(1rem, 4vw, 3rem)"}}}} -->
+<div class="wp-block-cover alignfull ts-hero ts-hero-large" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:clamp(1rem, 4vw, 3rem);padding-bottom:3rem;padding-left:clamp(1rem, 4vw, 3rem);min-height:640px"><span aria-hidden="true" class="wp-block-cover__background has-text-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://casabrisa.example/media/pool-hero.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","className":"ts-hero-content","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide ts-hero-content"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"on-primary","fontSize":"small"} -->
+<p class="ts-eyebrow has-on-primary-color has-text-color has-small-font-size">CASA BRISA · MEDITERRANEAN RELAXATION</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"ts-hero-title","textColor":"on-primary"} -->
+<h1 class="wp-block-heading ts-hero-title has-on-primary-color has-text-color">Here, the days have a different rhythm.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-hero-description","textColor":"on-primary","fontSize":"large"} -->
+<p class="ts-hero-description has-on-primary-color has-text-color has-large-font-size">Bright apartments, a courtyard pool and the Mediterranean a short walk away. Make room for relaxation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="https://casabrisa.example/accommodation/">View accommodation</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">WELCOME TO CASA BRISA</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A small place. A great escape.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Open the windows, make a coffee and forget the clock for a while. At Casa Brisa, you will find the independence of an apartment and the warmth of a family-run property.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Two apartment types, simple spaces and everything you need to feel comfortable.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">THE ESSENTIALS, TAKEN CARE OF</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Holidays with fewer complications.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Simple details that leave you time for what matters.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"ts-services"} -->
+<div class="wp-block-columns ts-services"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-service-number","textColor":"accent"} -->
+<p class="ts-service-number has-accent-color has-text-color">01</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">At your own pace</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">An equipped kitchen, wifi and your own space to plan the day your way.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-service-number","textColor":"accent"} -->
+<p class="ts-service-number has-accent-color has-text-color">02</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Outdoors</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">A courtyard pool, green corners and balconies for lingering after lunch.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-service-number","textColor":"accent"} -->
+<p class="ts-service-number has-accent-color has-text-color">03</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A personal welcome</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Talk directly with us to prepare your arrival and answer your questions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">FIND YOUR SPACE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Two ways to feel at home.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Choose the type that suits your trip. We will help with the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"ts-card-grid"} -->
+<div class="wp-block-columns ts-card-grid"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"ts-card","style":{"spacing":{"blockGap":"0"}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card has-surface-background-color has-background"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-living.webp" alt="Type A apartment interior, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"ts-card-body","style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card-body" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">TYPE A APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A retreat for two or three</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">One bedroom, an open kitchen and a balcony for leisurely breakfasts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ts-card-facts","fontSize":"small"} -->
+<p class="ts-card-facts has-small-font-size">Up to 3 guests · 1 bedroom · 38 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://casabrisa.example/accommodation/type-a/">View Type A</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"ts-card","style":{"spacing":{"blockGap":"0"}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card has-surface-background-color has-background"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-living.webp" alt="Type B apartment interior, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"ts-card-body","style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card-body" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">TYPE B APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">More space to share</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Two bedrooms and a comfortable living room for family getaways.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ts-card-facts","fontSize":"small"} -->
+<p class="ts-card-facts has-small-font-size">Up to 4 guests · 2 bedrooms · 56 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://casabrisa.example/accommodation/type-b/">View Type B</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">A GLIMPSE OF YOUR STAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Light, water and calm.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Spaces designed for more time away from the clock.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":3,"linkTo":"none","sizeSlug":"full","className":"ts-gallery"} -->
+<figure class="wp-block-gallery has-nested-images columns-3 is-cropped ts-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/pool-courtyard.webp" alt="Casa Brisa pool and courtyard, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/garden-passage.webp" alt="Garden passage, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/courtyard-balconies.webp" alt="Courtyard facade and balconies, illustrative image"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"verticalAlignment":"center","className":"ts-image-text"} -->
+<div class="wp-block-columns are-vertically-aligned-center ts-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/promenade.webp" alt="Mediterranean promenade, illustrative image"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">A SHORT WALK FROM THE MEDITERRANEAN</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Head out without plans. Come back with stories.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">A morning by the sea, a table in the sun or a sunset stroll. The coast sets the scene; you choose the pace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://casabrisa.example/surroundings-contact/">Explore the surroundings</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section ts-contact","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section ts-contact has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">LET US PLAN YOUR NEXT GETAWAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us when you would like to visit.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Email or call us to discuss dates, choose your apartment and arrange your arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>home</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tourist_stay_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Accommodation</title>
+      <link>https://casabrisa.example/accommodation/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://casabrisa.example/DEMO_IMPORT_TOKEN/?page_id=2</guid>
+      <content:encoded><![CDATA[<!-- wp:cover {"url":"https://casabrisa.example/media/courtyard-wide.webp","dimRatio":70,"overlayColor":"text","isUserOverlayColor":true,"minHeight":320,"align":"full","className":"ts-hero ts-hero-short","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"3rem","bottom":"3rem","left":"clamp(1rem, 4vw, 3rem)","right":"clamp(1rem, 4vw, 3rem)"}}}} -->
+<div class="wp-block-cover alignfull ts-hero ts-hero-short" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:clamp(1rem, 4vw, 3rem);padding-bottom:3rem;padding-left:clamp(1rem, 4vw, 3rem);min-height:320px"><span aria-hidden="true" class="wp-block-cover__background has-text-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://casabrisa.example/media/courtyard-wide.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","className":"ts-hero-content","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide ts-hero-content"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"on-primary","fontSize":"small"} -->
+<p class="ts-eyebrow has-on-primary-color has-text-color has-small-font-size">CASA BRISA · MEDITERRANEAN RELAXATION</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"ts-hero-title","textColor":"on-primary"} -->
+<h1 class="wp-block-heading ts-hero-title has-on-primary-color has-text-color">Your space to unwind.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-hero-description","textColor":"on-primary","fontSize":"large"} -->
+<p class="ts-hero-description has-on-primary-color has-text-color has-large-font-size">Two apartment types. The same calm, with the space you need.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">FIND YOUR SPACE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Two ways to feel at home.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Choose the type that suits your trip. We will help with the rest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"className":"ts-card-grid"} -->
+<div class="wp-block-columns ts-card-grid"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"ts-card","style":{"spacing":{"blockGap":"0"}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card has-surface-background-color has-background"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-living.webp" alt="Type A apartment interior, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"ts-card-body","style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card-body" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">TYPE A APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A retreat for two or three</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">One bedroom, an open kitchen and a balcony for leisurely breakfasts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ts-card-facts","fontSize":"small"} -->
+<p class="ts-card-facts has-small-font-size">Up to 3 guests · 1 bedroom · 38 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://casabrisa.example/accommodation/type-a/">View Type A</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"ts-card","style":{"spacing":{"blockGap":"0"}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card has-surface-background-color has-background"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-living.webp" alt="Type B apartment interior, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"ts-card-body","style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group ts-card-body" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">TYPE B APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">More space to share</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Two bedrooms and a comfortable living room for family getaways.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"ts-card-facts","fontSize":"small"} -->
+<p class="ts-card-facts has-small-font-size">Up to 4 guests · 2 bedrooms · 56 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://casabrisa.example/accommodation/type-b/">View Type B</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section ts-contact","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section ts-contact has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">LET US PLAN YOUR NEXT GETAWAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us when you would like to visit.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Email or call us to discuss dates, choose your apartment and arrange your arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>accommodation</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tourist_stay_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Type A Apartment</title>
+      <link>https://casabrisa.example/accommodation/type-a/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://casabrisa.example/DEMO_IMPORT_TOKEN/?page_id=3</guid>
+      <content:encoded><![CDATA[<!-- wp:cover {"url":"https://casabrisa.example/media/type-a-living.webp","dimRatio":70,"overlayColor":"text","isUserOverlayColor":true,"minHeight":320,"align":"full","className":"ts-hero ts-hero-short","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"3rem","bottom":"3rem","left":"clamp(1rem, 4vw, 3rem)","right":"clamp(1rem, 4vw, 3rem)"}}}} -->
+<div class="wp-block-cover alignfull ts-hero ts-hero-short" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:clamp(1rem, 4vw, 3rem);padding-bottom:3rem;padding-left:clamp(1rem, 4vw, 3rem);min-height:320px"><span aria-hidden="true" class="wp-block-cover__background has-text-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://casabrisa.example/media/type-a-living.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","className":"ts-hero-content","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide ts-hero-content"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"on-primary","fontSize":"small"} -->
+<p class="ts-eyebrow has-on-primary-color has-text-color has-small-font-size">CASA BRISA · MEDITERRANEAN RELAXATION</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"ts-hero-title","textColor":"on-primary"} -->
+<h1 class="wp-block-heading ts-hero-title has-on-primary-color has-text-color">Type A Apartment</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-hero-description","textColor":"on-primary","fontSize":"large"} -->
+<p class="ts-hero-description has-on-primary-color has-text-color has-large-font-size">A simple, bright space for two or three, with a balcony and an open kitchen.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">YOUR APARTMENT AT A GLANCE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Everything you need to slow down.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"ts-facts"} -->
+<div class="wp-block-columns ts-facts"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">3 guests</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Maximum occupancy</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">1 bedroom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Layout</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">38 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Floor area</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sleeping arrangements and layout</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>1 bedroom</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1 double bed + 1 sofa bed</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1 bathroom with shower</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Living room, open kitchen and balcony</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Included amenities</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Wifi and air conditioning</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Equipped kitchen and dining table</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Bed linen and towels</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Access to the shared pool and courtyard</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">EXPLORE YOUR APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A glimpse before you arrive.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Explore the spaces and find your favourite corner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":3,"linkTo":"none","sizeSlug":"full","className":"ts-gallery"} -->
+<figure class="wp-block-gallery has-nested-images columns-3 is-cropped ts-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-living.webp" alt="Type A apartment living room and kitchen, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-bedroom.webp" alt="Type A double bedroom, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-balcony.webp" alt="Type A balcony overlooking the courtyard, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-dining.webp" alt="Type A dining table, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-a-bathroom.webp" alt="Type A bathroom with shower, illustrative image"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section ts-contact","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section ts-contact has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">LET US PLAN YOUR NEXT GETAWAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us when you would like to visit.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Email or call us to discuss dates, choose your apartment and arrange your arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>type-a</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tourist_stay_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Type B Apartment</title>
+      <link>https://casabrisa.example/accommodation/type-b/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://casabrisa.example/DEMO_IMPORT_TOKEN/?page_id=4</guid>
+      <content:encoded><![CDATA[<!-- wp:cover {"url":"https://casabrisa.example/media/type-b-living.webp","dimRatio":70,"overlayColor":"text","isUserOverlayColor":true,"minHeight":320,"align":"full","className":"ts-hero ts-hero-short","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"3rem","bottom":"3rem","left":"clamp(1rem, 4vw, 3rem)","right":"clamp(1rem, 4vw, 3rem)"}}}} -->
+<div class="wp-block-cover alignfull ts-hero ts-hero-short" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:clamp(1rem, 4vw, 3rem);padding-bottom:3rem;padding-left:clamp(1rem, 4vw, 3rem);min-height:320px"><span aria-hidden="true" class="wp-block-cover__background has-text-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://casabrisa.example/media/type-b-living.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","className":"ts-hero-content","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide ts-hero-content"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"on-primary","fontSize":"small"} -->
+<p class="ts-eyebrow has-on-primary-color has-text-color has-small-font-size">CASA BRISA · MEDITERRANEAN RELAXATION</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"ts-hero-title","textColor":"on-primary"} -->
+<h1 class="wp-block-heading ts-hero-title has-on-primary-color has-text-color">Type B Apartment</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-hero-description","textColor":"on-primary","fontSize":"large"} -->
+<p class="ts-hero-description has-on-primary-color has-text-color has-large-font-size">Two bedrooms, space to share and a balcony overlooking the courtyard.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">YOUR APARTMENT AT A GLANCE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Space to be together.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"className":"ts-facts"} -->
+<div class="wp-block-columns ts-facts"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">4 guests</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Maximum occupancy</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">2 bedrooms</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Layout</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-fact-value","textColor":"primary"} -->
+<p class="ts-fact-value has-primary-color has-text-color">56 m²</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Floor area</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sleeping arrangements and layout</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>2 bedrooms</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1 double bed + 2 single beds</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>1 bathroom with shower</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Living room, open kitchen and balcony</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Included amenities</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Wifi and air conditioning</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Equipped kitchen and dining table</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Bed linen and towels</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Access to the shared pool and courtyard</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">EXPLORE YOUR APARTMENT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A glimpse before you arrive.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-intro","textColor":"text-muted"} -->
+<p class="ts-intro has-text-muted-color has-text-color">Explore the spaces and find your favourite corner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"columns":3,"linkTo":"none","sizeSlug":"full","className":"ts-gallery"} -->
+<figure class="wp-block-gallery has-nested-images columns-3 is-cropped ts-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-living.webp" alt="Type B apartment living room and kitchen, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-bedroom.webp" alt="Type B main bedroom, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-balcony.webp" alt="Type B balcony overlooking the courtyard, illustrative image"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/type-b-bathroom.webp" alt="Type B bathroom, illustrative image"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section ts-contact","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section ts-contact has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">LET US PLAN YOUR NEXT GETAWAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us when you would like to visit.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Email or call us to discuss dates, choose your apartment and arrange your arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>type-b</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tourist_stay_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Surroundings and contact</title>
+      <link>https://casabrisa.example/surroundings-contact/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://casabrisa.example/DEMO_IMPORT_TOKEN/?page_id=5</guid>
+      <content:encoded><![CDATA[<!-- wp:cover {"url":"https://casabrisa.example/media/shoreline.webp","dimRatio":70,"overlayColor":"text","isUserOverlayColor":true,"minHeight":320,"align":"full","className":"ts-hero ts-hero-short","style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"3rem","bottom":"3rem","left":"clamp(1rem, 4vw, 3rem)","right":"clamp(1rem, 4vw, 3rem)"}}}} -->
+<div class="wp-block-cover alignfull ts-hero ts-hero-short" style="margin-top:0;margin-bottom:0;padding-top:3rem;padding-right:clamp(1rem, 4vw, 3rem);padding-bottom:3rem;padding-left:clamp(1rem, 4vw, 3rem);min-height:320px"><span aria-hidden="true" class="wp-block-cover__background has-text-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background" alt="" src="https://casabrisa.example/media/shoreline.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","className":"ts-hero-content","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide ts-hero-content"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"on-primary","fontSize":"small"} -->
+<p class="ts-eyebrow has-on-primary-color has-text-color has-small-font-size">CASA BRISA · MEDITERRANEAN RELAXATION</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1,"className":"ts-hero-title","textColor":"on-primary"} -->
+<h1 class="wp-block-heading ts-hero-title has-on-primary-color has-text-color">The sea is close. So are we.</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"ts-hero-description","textColor":"on-primary","fontSize":"large"} -->
+<p class="ts-hero-description has-on-primary-color has-text-color has-large-font-size">Explore the surroundings and talk directly with Casa Brisa to plan your stay.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ts-image-text"} -->
+<div class="wp-block-columns ts-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">MEDITERRANEAN SURROUNDINGS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Little plans, great days.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In this demo, we imagine Casa Brisa in a quiet town on the Mediterranean coast. The promenade, beach and local shops are part of everyday life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ts-photo"} -->
+<figure class="wp-block-image size-full ts-photo"><img src="https://casabrisa.example/media/shoreline.webp" alt="Mediterranean shoreline, illustrative image"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Before you arrive</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Check-in from 16:00 and check-out by 11:00.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Ask us about access and parking options.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Confirm amenities and special requirements before booking.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Let us talk about your trip</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="mailto:hola@casabrisa.example">hola@casabrisa.example</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="tel:+34000000000">+34 000 000 000</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"text-muted","fontSize":"small"} -->
+<p class="has-text-muted-color has-text-color has-small-font-size">Casa Brisa is a fictional property. The images are synthetic and the contact details do not belong to a real business.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+
+<!-- wp:group {"align":"full","className":"ts-section ts-contact","style":{"spacing":{"padding":{"top":"clamp(3rem, 6vw, 5.5rem)","bottom":"clamp(3rem, 6vw, 5.5rem)"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"surface","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull ts-section ts-contact has-surface-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:clamp(3rem, 6vw, 5.5rem);padding-bottom:clamp(3rem, 6vw, 5.5rem)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ts-eyebrow","textColor":"text-muted","fontSize":"small"} -->
+<p class="ts-eyebrow has-text-muted-color has-text-color has-small-font-size">LET US PLAN YOUR NEXT GETAWAY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us when you would like to visit.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"textColor":"text-muted"} -->
+<p class="has-text-muted-color has-text-color">Email or call us to discuss dates, choose your apartment and arrange your arrival.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hola@casabrisa.example">Email us</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"backgroundColor":"surface","textColor":"primary","className":"ts-secondary"} -->
+<div class="wp-block-button ts-secondary"><a class="wp-block-button__link has-primary-color has-surface-background-color has-text-color has-background wp-element-button" href="tel:+34000000000">Call us to book</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>surroundings-contact</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_tourist_stay_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>

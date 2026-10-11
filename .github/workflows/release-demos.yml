@@ -1,0 +1,46 @@
+name: Release demo data
+on:
+  push:
+    tags: ['tourist-stay-demo-*']
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Validate immutable package
+        env:
+          DEMO_TAG: ${{ github.ref_name }}
+        run: |
+          [[ "$DEMO_TAG" == 'tourist-stay-demo-0.1.0' ]] || { echo 'Unsupported demo tag'; exit 1; }
+          python3 tools/check-package.py
+          cd packages/0.1.0
+          sha256sum -c SHA256SUMS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: demo-data
+          path: packages/0.1.0/
+  publish:
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: demo-data
+          path: demo-data
+      - name: Publish without replacing existing resources
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          DEMO_TAG: ${{ github.ref_name }}
+        run: |
+          if gh release view "$DEMO_TAG" >/dev/null 2>&1; then
+            echo 'Release already exists; refusing to replace distributed assets.'
+            exit 1
+          fi
+          gh release create "$DEMO_TAG" --verify-tag --title 'Tourist Stay demos 0.1.0' --notes 'Versioned Home A/B data in Spanish and English for Tourist Stay 0.1.0. The installable theme is delivered separately. Includes synthetic image resource terms and SHA-256 checksums.' demo-data/*

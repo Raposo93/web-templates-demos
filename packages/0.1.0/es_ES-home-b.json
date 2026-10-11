@@ -1,0 +1,125 @@
+{
+    "version": "0.1.0",
+    "theme_version": "0.1.0",
+    "locale": "es_ES",
+    "demo": "home-b",
+    "tagline": "Apartamentos para bajar el ritmo",
+    "pages": [
+        {
+            "slug": "inicio",
+            "title": "Inicio"
+        },
+        {
+            "slug": "alojamientos",
+            "title": "Alojamientos"
+        },
+        {
+            "slug": "tipo-a",
+            "title": "Apartamento Tipo A"
+        },
+        {
+            "slug": "tipo-b",
+            "title": "Apartamento Tipo B"
+        },
+        {
+            "slug": "entorno-contacto",
+            "title": "Entorno y contacto"
+        }
+    ],
+    "media": [
+        {
+            "file": "courtyard-balconies.webp",
+            "sha256": "7f38c7a50dda27ec28476676f62c9fa2884ab631714bec15e8af1b8ca2092362",
+            "alt": "Fachada y balcones del patio, imagen ilustrativa"
+        },
+        {
+            "file": "courtyard-wide.webp",
+            "sha256": "2a33c4c0af8979ea3d3262f8cf2901aa6e8baa0b9b68e9ccb8dc7c21c6dd448c",
+            "alt": "Patio de Casa Brisa, imagen ilustrativa"
+        },
+        {
+            "file": "garden-passage.webp",
+            "sha256": "59b5ab33939a1f09c9ce62bf6671e28ff28e027936516aae29a3dc66a210bd00",
+            "alt": "Pasaje ajardinado, imagen ilustrativa"
+        },
+        {
+            "file": "pool-courtyard.webp",
+            "sha256": "9a28494b3a167b0e7d96d8e6c777341934afd0f561cb6f35a7aaed0e5bbc7f2a",
+            "alt": "Piscina y patio de Casa Brisa, imagen ilustrativa"
+        },
+        {
+            "file": "pool-hero.webp",
+            "sha256": "fb30ecd74b90cc90cbfb893da8bc4da97f51b981b187ed19b3b723c0abb1d2a8",
+            "alt": "Casa Brisa"
+        },
+        {
+            "file": "promenade.webp",
+            "sha256": "e668179a1e03e33699fba45f1d898fec35909f42300350abb497a591aa82438b",
+            "alt": "Paseo junto al Mediterráneo, imagen ilustrativa"
+        },
+        {
+            "file": "shoreline.webp",
+            "sha256": "3daf44ee3f4cc88e03a762f0d54391be5ec49a5674a043c102ecb7ca1c882e1a",
+            "alt": "Orilla mediterránea, imagen ilustrativa"
+        },
+        {
+            "file": "type-a-balcony.webp",
+            "sha256": "b5461e23dc2f88a194c802a782952339b5043b1f1c0b074e8850dc4716f49e55",
+            "alt": "Balcón del Tipo A con vistas al patio, imagen ilustrativa"
+        },
+        {
+            "file": "type-a-bathroom.webp",
+            "sha256": "62484de2d4de47a595f9e6ea0cced57167e3cfb908df82c2bc8cb28885d8f4b6",
+            "alt": "Baño con ducha del Tipo A, imagen ilustrativa"
+        },
+        {
+            "file": "type-a-bedroom.webp",
+            "sha256": "9f132ccf1361839f37afcc9e65692bcd4d6507688fb757615129d12d9f6d279a",
+            "alt": "Dormitorio con cama doble del Tipo A, imagen ilustrativa"
+        },
+        {
+            "file": "type-a-dining.webp",
+            "sha256": "0b3c6d550818f3d37359da98b0caf886eb1754d2a35ed0500e8d9c15b40f4a0e",
+            "alt": "Mesa de comedor del Tipo A, imagen ilustrativa"
+        },
+        {
+            "file": "type-a-living.webp",
+            "sha256": "1aa7adeb435bf050cd81953d51bf63e635854b0fc19e26d28fb9fb8f33af7789",
+            "alt": "Interior del apartamento Tipo A, imagen ilustrativa"
+        },
+        {
+            "file": "type-b-balcony.webp",
+            "sha256": "f3ebc9e531e6746ee57b1fd713a539df4bbafff8e72203dbe836d13bd8f6bc5b",
+            "alt": "Balcón del Tipo B con vistas al patio, imagen ilustrativa"
+        },
+        {
+            "file": "type-b-bathroom.webp",
+            "sha256": "3d73258d54766a77430bae1ccb1f8de2e8dad6220454ed7d6c093bc43d35a7b9",
+            "alt": "Baño del Tipo B, imagen ilustrativa"
+        },
+        {
+            "file": "type-b-bedroom.webp",
+            "sha256": "b743339665365c90700f556d39f893b5bb8bff34acad69335532df2f1bd13c9f",
+            "alt": "Dormitorio principal del Tipo B, imagen ilustrativa"
+        },
+        {
+            "file": "type-b-living.webp",
+            "sha256": "1361ca933699b139bbaa08cab4110889699fd04c8740db02ad1241b4627b1a9a",
+            "alt": "Interior del apartamento Tipo B, imagen ilustrativa"
+        },
+        {
+            "file": "casa-brisa-icon.png",
+            "sha256": "31877af2ec898f629c060a1f9c549302be7afd638193d4250f2ebc0ec79ab366",
+            "alt": "Casa Brisa"
+        },
+        {
+            "file": "casa-brisa-logo.png",
+            "sha256": "f52c967429f7852d742afdee51baf85864618ca94eb150d703b4b0f6abd8c2bb",
+            "alt": "Casa Brisa"
+        }
+    ],
+    "content": {
+        "file": "es_ES-home-b.xml",
+        "sha256": "661618ff03bf7b659b52d1c67ed36b93bf08d9c0a44ff5f791134f476b71e31d"
+    }
+}
