@@ -14,10 +14,10 @@ Comprueba integridad desde esta carpeta con `sha256sum -c SHA256SUMS`; desde la 
 
 ## Paquete del asistente 0.1.0
 
-`packages/0.1.0/` contiene los cuatro manifiestos JSON y WXR (A/B × ES/EN), los 17 medios raster, las capturas y licencias del asistente. La Release `learnstudio-demo-0.1.0` entrega estos archivos sin subdirectorios para conservar las URLs del tema. Los recursos de `assets/` permiten inspección manual; el asistente usa la Release inmutable, no las rutas de `main`. No se sustituyen adjuntos publicados.
+`packages/0.1.0/` contiene los cuatro manifiestos JSON y WXR (A/B × ES/EN), los 17 medios raster, las capturas y licencias del asistente. La Release `learnstudio-demo-0.1.0` entrega estos archivos sin subdirectorios para conservar las URLs del tema. Los recursos de `assets/` permiten inspección manual; el asistente usa los adjuntos de Release, no las rutas de `main`. No se sustituyen adjuntos publicados.
 
 Antes de publicar, ejecuta `./check.sh` desde la raíz. Crea la Release desde el commit que contiene el paquete comprobado e incluye todos sus archivos, incluido `SHA256SUMS`; verifica después las descargas sin autenticación. La publicación no sustituye las pruebas del asistente en WordPress.
 
-## Entrega 0.1.1 preparada
+## Entrega inmutable 0.1.1
 
-`packages/0.1.1/` conserva WXR, fotografías, identidad y licencias de 0.1.0; los cuatro manifiestos declaran contrato y tema 0.1.1 y tienen checksums nuevos. La Release `learnstudio-demo-0.1.1` debe prepararse como borrador con sus 30 archivos y publicarse únicamente con inmutabilidad de GitHub activada, tras verificar las descargas del borrador. La entrega 0.1.0 no se sustituye: su API devuelve `immutable: false`, aunque se mantenga la política de no sobrescritura. No se ha publicado 0.1.1 ni se han repetido pruebas de WordPress para esta entrega.
+`packages/0.1.1/` conserva WXR, fotografías, identidad y licencias de 0.1.0; los cuatro manifiestos declaran contrato y tema 0.1.1 y tienen checksums nuevos. La [Release `learnstudio-demo-0.1.1`](https://github.com/Raposo93/web-templates-demos/releases/tag/learnstudio-demo-0.1.1) está publicada con `immutable: true` y 30 adjuntos. Todos se descargaron sin autenticación y coinciden byte a byte con el paquete validado. La entrega 0.1.0 y sus adjuntos se conservan; su API devuelve `immutable: false`. No se han repetido pruebas de WordPress para esta entrega; los flujos están documentados en el producto de origen.

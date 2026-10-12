@@ -6,8 +6,8 @@ Datos y medios públicos de demostración de cinco temas independientes de `web-
 | --- | --- | --- | --- |
 | Tourist Stay / Casa Brisa | 16 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tourist-stay/README.md) |
 | TradeWorks / Nexo Instalaciones | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tradeworks/README.md) |
-| Table & Fork / Patio del Olivo | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/table-and-fork/README.md) |
-| LearnStudio / Aula Horizonte | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/learnstudio/README.md) |
+| Table & Fork / Patio del Olivo | 15 WebP e identidad | A/B × ES/EN, 0.1.1 inmutable | [README](wordpress/themes/table-and-fork/README.md) |
+| LearnStudio / Aula Horizonte | 15 WebP e identidad | A/B × ES/EN, 0.1.1 inmutable | [README](wordpress/themes/learnstudio/README.md) |
 | Hearth & Grain / Nativa Home | 24 WebP e identidad | Pendiente: adaptador WooCommerce | [README](wordpress/themes/hearth-and-grain/README.md) |
 
 ## Organización común
