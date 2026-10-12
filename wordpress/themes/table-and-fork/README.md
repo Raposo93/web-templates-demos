@@ -1,6 +1,6 @@
 # table-and-fork: medios de demostración
 
-Recursos de la demo ficticia del tema table-and-fork, organizados con las mismas rutas que `web-templates`. No es un tema instalable ni un paquete de importación.
+Recursos de la demo ficticia del tema table-and-fork, organizados con las mismas rutas que `web-templates`. No es un tema instalable; los medios de trabajo y el paquete importable de `packages/` se describen por separado.
 
 Incluye 15 fotografías sintéticas WebP en `assets/images/demo/`, identidad PNG/SVG en `assets/identity/`, captura de portada y documentación de procedencia y permisos en `assets/RESOURCES.md`. Las capturas no se importan a Medios. Los SVG son fuentes editables; WordPress no admite su subida de forma nativa.
 

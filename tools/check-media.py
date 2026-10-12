@@ -5,6 +5,7 @@ from pathlib import Path
 
 root = Path(__file__).resolve().parents[1]
 for theme, expected in {
+    'tourist-stay': 16,
     'tradeworks': 15,
     'table-and-fork': 15,
     'learnstudio': 15,

@@ -11,3 +11,5 @@ Código e identidad: GPL-2.0-or-later (`LICENSE`). Las fotografías tienen el pe
 Los derivados se copian sin modificar desde `wordpress/themes/hearth-and-grain/` de `web-templates`, commit `19347eb`. No hay generación en este repositorio: las herramientas y fuentes de generación permanecen en el producto de origen. No se incluyen originales, credenciales, datos de sitios reales ni dependencias de ejecución.
 
 Comprueba integridad desde esta carpeta con `sha256sum -c SHA256SUMS`; desde la raíz, ejecuta `./check.sh`. Esta entrega conserva los formatos originales y no acredita nuevas pruebas de compatibilidad del tema.
+
+El adaptador de importación WooCommerce sigue pendiente en web-templates #26. Este catálogo conserva solo medios manuales: no incluye `packages/`, manifiestos JSON ni WXR, y los comprobadores de paquetes no exigen ese adaptador.

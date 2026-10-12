@@ -1,31 +1,50 @@
 # web-templates-demos
 
-## Catálogo de medios
+Datos y medios públicos de demostración de cinco temas independientes de `web-templates`. Este repositorio no contiene temas instalables; sus ZIP se entregan por separado.
 
-Los medios se agrupan por producto siguiendo `wordpress/themes/<name>/`, igual que en `web-templates`. Cada carpeta contiene los derivados de demo, identidad, capturas, condiciones de uso y sumas SHA-256; no contiene un tema instalable.
+| Producto | Medios de trabajo | Paquete del asistente | Documentación |
+| --- | --- | --- | --- |
+| Tourist Stay / Casa Brisa | 16 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tourist-stay/README.md) |
+| TradeWorks / Nexo Instalaciones | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tradeworks/README.md) |
+| Table & Fork / Patio del Olivo | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/table-and-fork/README.md) |
+| LearnStudio / Aula Horizonte | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/learnstudio/README.md) |
+| Hearth & Grain / Nativa Home | 24 WebP e identidad | Pendiente: adaptador WooCommerce | [README](wordpress/themes/hearth-and-grain/README.md) |
 
-| Producto | Medios | Documentación |
-| --- | --- | --- |
-| TradeWorks / Nexo Instalaciones | 15 WebP e identidad | [README](wordpress/themes/tradeworks/README.md) |
-| Table & Fork / Patio del Olivo | 15 WebP e identidad | [README](wordpress/themes/table-and-fork/README.md) |
-| LearnStudio / Aula Horizonte | 15 WebP e identidad | [README](wordpress/themes/learnstudio/README.md) |
-| Hearth & Grain / Nativa Home | 24 WebP e identidad | [README](wordpress/themes/hearth-and-grain/README.md) |
+## Organización común
 
-Tourist Stay conserva su paquete histórico en `packages/0.1.0/` y su Release publicada, con rutas y bytes intactos. TradeWorks, Table & Fork y LearnStudio incluyen también sus paquetes A/B ES/EN en `wordpress/themes/<tema>/packages/0.1.0/`, destinados a Releases propias `<tema>-demo-0.1.0`. Los temas descargan desde esas Releases, no desde el árbol de carpetas. Hearth & Grain conserva solo medios manuales: su adaptador WooCommerce permanece pendiente.
+Todas las rutas se resuelven desde `wordpress/themes/<slug>/`:
 
-Ejecuta `./check.sh` para verificar el paquete histórico, los inventarios completos de medios y sus sumas SHA-256. Las fotografías son sintéticas y sus permisos están separados de la GPL de la identidad.
+| Contenido | Ruta dentro del producto |
+| --- | --- |
+| Documentación e inventario de trabajo | `README.md`, `SHA256SUMS` |
+| Fotografías de trabajo | `assets/images/demo/` |
+| Identidad y fuentes vectoriales | `assets/identity/` |
+| Condiciones y licencia | `assets/RESOURCES.md`, `LICENSE` |
+| Captura principal y adicionales | `screenshot.png`, `demo/` |
+| Entrega completa archivada | `packages/<version>/` |
 
-## Tourist Stay: paquete publicado
+Los medios de trabajo permiten inspección y subida manual a WordPress. Cada paquete versionado es una entrega completa y plana: imágenes, identidad raster, capturas, manifiestos JSON, WXR, licencias y `SHA256SUMS`. Los nombres `es_ES-home-a.json`, etc., distinguen idioma y composición; no se añaden subcarpetas. Hearth & Grain conserva solo medios y no tiene paquete importable hasta disponer de su adaptador WooCommerce.
 
+El asistente descarga **adjuntos de GitHub Releases**, desde `https://github.com/Raposo93/web-templates-demos/releases/download/<slug>-demo-<version>/<archivo>`, nunca desde el árbol de Git. Mover las carpetas no cambia esas URLs. Las cuatro Releases 0.1.0, sus tags y sus bytes se conservan; las correcciones requieren una nueva versión y contrato coherente del tema. No subas el ZIP de fuentes de este repositorio como tema.
 
-Public, versioned demo data for the Tourist Stay WordPress block theme. This repository contains only demo packages and their release checks; the installable theme is delivered separately.
+## Generación y validación
 
-Version 0.1.0 contains the existing Home A (experience and photography) and Home B (accommodation and amenities) compositions, independently in Spanish and English. Each demo adds five editable native pages and imports 16 synthetic photographs plus the Casa Brisa logo and icon into WordPress Media. No bookings, payments or inventory are included.
+Las herramientas y fuentes editables permanecen en cada tema de `web-templates`. Su generador `tools/build-demo.php` exporta los patrones registrados en WordPress desechable con el idioma correcto; `dist/demo-release/` es la salida del generador. Se validan A/B × ES/EN antes de entregar el paquete completo. Si se archiva en este repositorio, se usa `wordpress/themes/<slug>/packages/<version>/`. La automatización prevista en [web-templates #31](https://github.com/Raposo93/web-templates/issues/31) debe publicar los mismos adjuntos planos y no requiere guardar cada futura entrega en Git.
 
-Download assets from the `tourist-stay-demo-0.1.0` Release. The theme's consent-based setup uses the JSON manifests, WXR files, photographs and screenshots directly. Do not upload a source archive from this repository as a WordPress theme. The theme verifies the matching package version and each data/image hash before import.
+```sh
+./check.sh
+python3 tools/check-package.py tourist-stay 0.1.0
+python3 tools/check-package.py tradeworks 0.1.0
+python3 tools/check-demo-packages.py
+python3 tools/check-media.py
+# In a downloaded release asset directory:
+sha256sum -c SHA256SUMS
+```
 
-Code, identity and geometric resources: GPL-2.0-or-later. Photograph permissions, origin and restrictions are in `packages/0.1.0/RESOURCES.md` and are included in every Release. These are synthetic illustrations of a fictitious property, not photographs of real accommodation. They may be used on websites created with the theme, including commercial projects, but not sold or distributed as an independent photograph collection.
+Python 3.9+ y Git se necesitan solo para las comprobaciones de desarrollo. `check-demo-packages.py` recorre las versiones archivadas de los cuatro contratos existentes; `check-package.py` valida una pareja slug/versión con las mismas comprobaciones. `check-media.py` verifica el inventario separado de los cinco productos. No se necesitan herramientas de ejecución para usar las imágenes. Integridad de archivos no acredita compatibilidad adicional del tema: instalación, edición y visualización de WordPress/PHP se documentan en el producto de origen.
 
-Release assets are immutable. Corrections require a new version and matching theme contract; old releases remain available for existing buyers. `SHA256SUMS` covers all release resources. Verify with `sha256sum -c SHA256SUMS` in a downloaded asset directory.
+El workflow `release-demos.yml` mantiene su alcance histórico: un tag autorizado `tourist-stay-demo-0.1.0` prepara y publica ese paquete desde su commit exacto y rechaza sustituir una Release existente. Los commits normales no publican. La publicación general de versiones futuras corresponde a #31.
 
-Maintainers generate the packages from the theme's existing patterns using its `tools/build-demo.php`, validate all four composition/language combinations, then add the generated output under `packages/<version>/`. Run `python3 tools/check-package.py` before committing. An authorized push of the tag `tourist-stay-demo-0.1.0` runs the release workflow against that exact commit. Ordinary commits do not publish. A retry refuses to replace an existing Release.
+Código e identidad: GPL-2.0-or-later. Los permisos no exclusivos de las fotografías sintéticas se documentan por producto y se incluyen en los paquetes: uso en webs creadas con el tema, incluidos proyectos comerciales, sin venta como colección independiente. Son negocios ficticios; no se incluyen originales de alta resolución ni datos reales.
+
+La revisión de consumidores, workflows y compatibilidad de rutas se registra en [MIGRATION.md](MIGRATION.md).

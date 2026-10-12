@@ -7,8 +7,15 @@ import re
 import xml.etree.ElementTree as ET
 
 root = Path(__file__).resolve().parents[1]
-for slug, pages in {'tradeworks': 6, 'table-and-fork': 5, 'learnstudio': 11}.items():
-    package = root / 'wordpress/themes' / slug / 'packages/0.1.0'
+contracts = {'tourist-stay': (5, 18), 'tradeworks': (6, 17),
+             'table-and-fork': (5, 17), 'learnstudio': (11, 17)}
+
+
+def check_package(slug, version):
+    assert slug in contracts, f'Unsupported demo contract: {slug}'
+    assert re.fullmatch(r'[0-9]+\.[0-9]+\.[0-9]+', version), f'Invalid version: {version}'
+    pages, media = contracts[slug]
+    package = root / 'wordpress/themes' / slug / 'packages' / version
     checksums = {}
     for line in (package / 'SHA256SUMS').read_text().splitlines():
         digest, name = line.split('  ', 1)
@@ -20,9 +27,9 @@ for slug, pages in {'tradeworks': 6, 'table-and-fork': 5, 'learnstudio': 11}.ite
     for locale in ['es_ES', 'en_US']:
         for demo in ['home-a', 'home-b']:
             manifest = json.loads((package / f'{locale}-{demo}.json').read_text())
-            assert manifest['version'] == manifest['theme_version'] == '0.1.0'
+            assert manifest['version'] == manifest['theme_version'] == version
             assert manifest['locale'] == locale and manifest['demo'] == demo
-            assert len(manifest['pages']) == pages and len(manifest['media']) == 17
+            assert len(manifest['pages']) == pages and len(manifest['media']) == media
             names = [asset['file'] for asset in manifest['media']]
             assert len(names) == len(set(names))
             for asset in [manifest['content'], *manifest['media']]:
@@ -30,6 +37,8 @@ for slug, pages in {'tradeworks': 6, 'table-and-fork': 5, 'learnstudio': 11}.ite
                 assert checksums[asset['file']] == asset['sha256']
                 assert (package / asset['file']).stat().st_size <= 1048576
             xml = (package / manifest['content']['file']).read_text()
+            for image in re.findall(r'https://[^/]+\.example/media/([^"\s<]+)', xml):
+                assert image in names, f'Unlisted WXR media: {image}'
             assert '<!DOCTYPE' not in xml and '<!ENTITY' not in xml
             assert '127.0.0.1' not in xml and '/wp-content/themes/' not in xml
             items = ET.fromstring(xml).findall('./channel/item')
@@ -41,3 +50,9 @@ for slug, pages in {'tradeworks': 6, 'table-and-fork': 5, 'learnstudio': 11}.ite
     for name in ['LICENSE', 'RESOURCES.md']:
         assert (package / name).is_file()
     print(f'{slug}: four manifests, native WXR pages and {len(checksums)} verified release assets')
+
+
+if __name__ == '__main__':
+    for slug in contracts:
+        for package in sorted((root / 'wordpress/themes' / slug / 'packages').iterdir()):
+            check_package(slug, package.name)

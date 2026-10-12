@@ -16,13 +16,13 @@ jobs:
           DEMO_TAG: ${{ github.ref_name }}
         run: |
           [[ "$DEMO_TAG" == 'tourist-stay-demo-0.1.0' ]] || { echo 'Unsupported demo tag'; exit 1; }
-          python3 tools/check-package.py
-          cd packages/0.1.0
+          python3 tools/check-package.py tourist-stay 0.1.0
+          cd wordpress/themes/tourist-stay/packages/0.1.0
           sha256sum -c SHA256SUMS
       - uses: actions/upload-artifact@v4
         with:
           name: demo-data
-          path: packages/0.1.0/
+          path: wordpress/themes/tourist-stay/packages/0.1.0/
   publish:
     needs: validate
     runs-on: ubuntu-latest
