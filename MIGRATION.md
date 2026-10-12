@@ -37,3 +37,7 @@ Para [web-templates #31](https://github.com/Raposo93/web-templates/issues/31): l
 - `git diff --check` en ambos repositorios.
 
 Las evidencias locales de descargas e importaciones se conservan en `/home/codex/.cache/demo-paths-validation/`; no son una dependencia del producto ni se incorporan a Git. Los ZIP de prueba se generan desde las fuentes actuales y se comprueban con `check-theme.py --package`; los ZIP históricos versionados se conservan en el commit. Las pruebas no acreditan versiones de WordPress/PHP distintas de las utilizadas ni preparación comercial.
+
+## Coordinación de publicación — web-templates #31
+
+`release-demos.yml` deja de publicar el piloto histórico: valida los archivos archivados usando las rutas `wordpress/themes/<slug>/packages/<version>/`. La publicación canónica se prepara desde el commit etiquetado en el repositorio del tema y usa su adaptador; no necesita nuevas carpetas de paquetes en este repositorio. No se mueven ni reescriben los archivos, tags, hashes o adjuntos históricos. Las URLs planas de las Releases anteriores se conservan. Los nuevos adaptadores cambian versión/base junto al tema, antes de etiquetarlo. El repositorio privado incorpora generación nativa por idioma, publicación en borrador, verificación completa y recuperación sin sustitución de entregas públicas.

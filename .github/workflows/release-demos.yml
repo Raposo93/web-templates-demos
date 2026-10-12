@@ -1,7 +1,19 @@
-name: Release demo data
+name: Validate archived demo packages
 on:
   push:
-    tags: ['tourist-stay-demo-*']
+    branches: [main]
+    paths:
+      - 'wordpress/themes/**'
+      - 'tools/**'
+      - 'check.sh'
+      - '.github/workflows/release-demos.yml'
+  pull_request:
+    paths:
+      - 'wordpress/themes/**'
+      - 'tools/**'
+      - 'check.sh'
+      - '.github/workflows/release-demos.yml'
+  workflow_dispatch:
 permissions:
   contents: read
 jobs:
@@ -11,36 +23,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
-      - name: Validate immutable package
-        env:
-          DEMO_TAG: ${{ github.ref_name }}
-        run: |
-          [[ "$DEMO_TAG" == 'tourist-stay-demo-0.1.0' ]] || { echo 'Unsupported demo tag'; exit 1; }
-          python3 tools/check-package.py tourist-stay 0.1.0
-          cd wordpress/themes/tourist-stay/packages/0.1.0
-          sha256sum -c SHA256SUMS
-      - uses: actions/upload-artifact@v4
+      - uses: actions/setup-python@v5
         with:
-          name: demo-data
-          path: wordpress/themes/tourist-stay/packages/0.1.0/
-  publish:
-    needs: validate
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/download-artifact@v4
-        with:
-          name: demo-data
-          path: demo-data
-      - name: Publish without replacing existing resources
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          DEMO_TAG: ${{ github.ref_name }}
-        run: |
-          if gh release view "$DEMO_TAG" >/dev/null 2>&1; then
-            echo 'Release already exists; refusing to replace distributed assets.'
-            exit 1
-          fi
-          gh release create "$DEMO_TAG" --verify-tag --title 'Tourist Stay demos 0.1.0' --notes 'Versioned Home A/B data in Spanish and English for Tourist Stay 0.1.0. The installable theme is delivered separately. Includes synthetic image resource terms and SHA-256 checksums.' demo-data/*
+          python-version: '3.12'
+      - name: Validate all archived packages and working-media inventories
+        run: ./check.sh

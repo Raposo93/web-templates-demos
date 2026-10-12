@@ -29,7 +29,7 @@ El asistente descarga **adjuntos de GitHub Releases**, desde `https://github.com
 
 ## Generación y validación
 
-Las herramientas y fuentes editables permanecen en cada tema de `web-templates`. Su generador `tools/build-demo.php` exporta los patrones registrados en WordPress desechable con el idioma correcto; `dist/demo-release/` es la salida del generador. Se validan A/B × ES/EN antes de entregar el paquete completo. Si se archiva en este repositorio, se usa `wordpress/themes/<slug>/packages/<version>/`. La automatización prevista en [web-templates #31](https://github.com/Raposo93/web-templates/issues/31) debe publicar los mismos adjuntos planos y no requiere guardar cada futura entrega en Git.
+Las herramientas y fuentes editables permanecen en cada tema de `web-templates`. Su generador `tools/build-demo.php` exporta los patrones registrados en WordPress desechable con el idioma correcto; `dist/demo-release/` es la salida del generador. Se validan A/B × ES/EN antes de entregar el paquete completo. Si se archiva en este repositorio, se usa `wordpress/themes/<slug>/packages/<version>/`. El flujo de [web-templates #31](https://github.com/Raposo93/web-templates/issues/31) genera y valida los paquetes desde el commit etiquetado del tema, publica y verifica la demo antes del ZIP y no requiere archivar cada entrega nueva en Git. El estado de validación efectiva se mantiene en el repositorio del tema.
 
 ```sh
 ./check.sh
@@ -43,7 +43,7 @@ sha256sum -c SHA256SUMS
 
 Python 3.9+ y Git se necesitan solo para las comprobaciones de desarrollo. `check-demo-packages.py` recorre las versiones archivadas de los cuatro contratos existentes; `check-package.py` valida una pareja slug/versión con las mismas comprobaciones. `check-media.py` verifica el inventario separado de los cinco productos. No se necesitan herramientas de ejecución para usar las imágenes. Integridad de archivos no acredita compatibilidad adicional del tema: instalación, edición y visualización de WordPress/PHP se documentan en el producto de origen.
 
-El workflow `release-demos.yml` mantiene su alcance histórico: un tag autorizado `tourist-stay-demo-0.1.0` prepara y publica ese paquete desde su commit exacto y rechaza sustituir una Release existente. Los commits normales no publican. La publicación general de versiones futuras corresponde a #31.
+El workflow `release-demos.yml` valida los paquetes archivados y medios de trabajo en commits/PR de `main` y por ejecución manual, con `contents: read`; no publica ni responde a tags. La publicación tiene una sola implementación en `web-templates/tools/release-demo.py`, invocada explícitamente por el lanzamiento del tema. Así la creación de un tag público no lanza otro publicador que compita por la misma entrega. Las nuevas Releases siguen usando adjuntos planos `<slug>-demo-X.Y.Z/<archivo>`, aunque sus datos no se archiven en el árbol. La anotación de cada tag y las notas de Release registran repositorio/commit de origen y el enlace a la entrega del tema. Los ZIP privados, código PHP y herramientas del tema no se adjuntan aquí.
 
 Código e identidad: GPL-2.0-or-later. Los permisos no exclusivos de las fotografías sintéticas se documentan por producto y se incluyen en los paquetes: uso en webs creadas con el tema, incluidos proyectos comerciales, sin venta como colección independiente. Son negocios ficticios; no se incluyen originales de alta resolución ni datos reales.
 
