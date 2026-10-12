@@ -1,0 +1,144 @@
+{
+  "version": "0.1.1",
+  "theme_version": "0.1.1",
+  "locale": "es_ES",
+  "demo": "home-b",
+  "tagline": "Aprende cerca, a tu ritmo",
+  "pages": [
+    {
+      "slug": "inicio",
+      "title": "Inicio"
+    },
+    {
+      "slug": "cursos",
+      "title": "Cursos"
+    },
+    {
+      "slug": "equipo",
+      "title": "Equipo"
+    },
+    {
+      "slug": "centro",
+      "title": "El centro"
+    },
+    {
+      "slug": "contacto",
+      "title": "Contacto"
+    },
+    {
+      "slug": "ingles-inicial",
+      "title": "Inglés inicial"
+    },
+    {
+      "slug": "ingles-intermedio",
+      "title": "Inglés intermedio"
+    },
+    {
+      "slug": "frances-inicial",
+      "title": "Francés inicial"
+    },
+    {
+      "slug": "espanol-extranjeros",
+      "title": "Español para extranjeros"
+    },
+    {
+      "slug": "informatica-practica",
+      "title": "Informática práctica"
+    },
+    {
+      "slug": "apoyo-academico",
+      "title": "Apoyo académico"
+    }
+  ],
+  "media": [
+    {
+      "file": "01-facade.webp",
+      "sha256": "be1e9de3fb5f7f024159bd0d4e2e5ed0d25980db93d734c38e7043a704de2abd",
+      "alt": "Entrada acristalada de la academia a pie de calle"
+    },
+    {
+      "file": "02-reception.webp",
+      "sha256": "4f918f815a5c56828b41453dfc9c5c7d848811b1beea5cce456bc2ad581f0576",
+      "alt": "Mostrador de roble y dos sillas salvia en recepción"
+    },
+    {
+      "file": "03-main-classroom-hero.webp",
+      "sha256": "a88c100d98a1fb2128effa7f3d3d437b096b67786d4129d514741cce2f61e0d4",
+      "alt": "Aula luminosa con mesas modulares y sillas verdes"
+    },
+    {
+      "file": "04-language-class.webp",
+      "sha256": "1ed98ac880bea5ab53097b5343f529135e773408629ac1165a7c7fbfd74a9846",
+      "alt": "Profesora guiando una clase de idiomas con seis adultos"
+    },
+    {
+      "file": "05-conversation-workshop.webp",
+      "sha256": "4e31511530ec2c0cf9dfb5fdba42575d98b5044c34fd109323a2a08da7413620",
+      "alt": "Cuatro adultos practicando conversación en grupos pequeños"
+    },
+    {
+      "file": "06-individual-tutoring.webp",
+      "sha256": "3061eddd700a981bc598e4d1a62925ad3bebe45f46591750336d646507009dd6",
+      "alt": "Profesor explicando un ejercicio a una alumna adulta"
+    },
+    {
+      "file": "07-computer-training.webp",
+      "sha256": "259a74d4505c532e9528d8f8445a9b525b70bca1d3f77f1feae64dba5070c943",
+      "alt": "Clase de informática práctica en una sala de seis ordenadores"
+    },
+    {
+      "file": "08-study-materials.webp",
+      "sha256": "0c9e135ee131e34c86ee31c4c8e30a926ccf2011d5c95582afaf20d0c4ff542e",
+      "alt": "Cuadernos y material de estudio sobre una mesa del aula"
+    },
+    {
+      "file": "09-teacher-a-portrait.webp",
+      "sha256": "a29d79520065adde587205f5c9fbbf0fdc7656f841f29b2b45d46232b439a7fe",
+      "alt": "Profesora Elena con jersey azul oscuro en el aula principal"
+    },
+    {
+      "file": "10-teacher-b-portrait.webp",
+      "sha256": "2b9f28023b330dd46cc6afd63a9af3495d6a5b2a6749ce2c6dea07004f3781ae",
+      "alt": "Profesor Daniel con gafas y sobrecamisa verde oliva"
+    },
+    {
+      "file": "11-teaching-team.webp",
+      "sha256": "2e69fbf943508dcb1bc4076b844fccba37d8142844f4753dabfd06d605e0d924",
+      "alt": "Dos docentes conversando junto a recepción"
+    },
+    {
+      "file": "12-study-corner.webp",
+      "sha256": "769b45c8cc299e170fb081a1ba29b7d2a60e470b79e956521f200dc406b7670b",
+      "alt": "Pequeño rincón de estudio con sillas y estantería"
+    },
+    {
+      "file": "13-classroom-b.webp",
+      "sha256": "a7f48e207f14c5c3cebaf55f8c9fe212f42f5b14f932b54e482ad17288c2c8aa",
+      "alt": "Aula pequeña de tutoría con mesa de roble"
+    },
+    {
+      "file": "14-student-detail.webp",
+      "sha256": "b7660452466e344d231b19c968e7294a3d7338b842e0ee86c28476d1444dcc53",
+      "alt": "Estudiante adulto tomando apuntes junto al portátil"
+    },
+    {
+      "file": "15-center-atmosphere.webp",
+      "sha256": "a9eecd2b7937ad4bf720cfdf295feb733e176c151eff23c7f11f58cbd0304276",
+      "alt": "Pasillo corto hacia el aula con luz de tarde"
+    },
+    {
+      "file": "horizonte-icon.png",
+      "sha256": "e592ef9c2c8ec56e9493b7e6b954ae83a73c616602a0579b39bbb8815b9ae80d",
+      "alt": "Aula Horizonte"
+    },
+    {
+      "file": "horizonte-logo.png",
+      "sha256": "9dee2b7ae7fc2776c34cbd08c5f6df885dc7474f6a3a66d4cf3dc65ab7e35e62",
+      "alt": "Aula Horizonte"
+    }
+  ],
+  "content": {
+    "file": "es_ES-home-b.xml",
+    "sha256": "fb55bd1b6ef279f4d9a891e6c0dff0151664b649273fef49891a61dc3c7e32a8"
+  }
+}

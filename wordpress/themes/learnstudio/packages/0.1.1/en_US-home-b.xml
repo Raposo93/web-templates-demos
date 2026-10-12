@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/" version="2.0">
+  <channel>
+    <title>Aula Horizonte</title>
+    <link>https://aulahorizonte.example.invalid</link>
+    <description>LearnStudio demo</description>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://aulahorizonte.example.invalid</wp:base_site_url>
+    <wp:base_blog_url>https://aulahorizonte.example.invalid</wp:base_blog_url>
+    <item>
+      <title>Home</title>
+      <link>https://aulahorizonte.example.invalid/home/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=1</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-image-text"} -->
+<div class="wp-block-columns ls-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/04-language-class.webp" alt="Teacher guiding six adults in a language class"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE · OUR CENTER</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">A nearby team. Time to learn.</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Meet our fictional teachers and discover a center built around practical exercises, conversation and individual guidance.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/center/">Meet the center</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">See courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">People who make learning feel closer</h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className":"ls-team"} -->
+<div class="wp-block-columns ls-team"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-teacher"} -->
+<div class="wp-block-group ls-teacher"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/09-teacher-a-portrait.webp" alt="Teacher Elena with a navy sweater in the main classroom"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Elena Vidal</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages and conversation</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>She combines everyday dialogues, listening and practical vocabulary. Fictional teaching profile.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-teacher"} -->
+<div class="wp-block-group ls-teacher"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/10-teacher-b-portrait.webp" alt="Teacher Daniel with glasses and an olive overshirt"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Daniel Mora</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Computing and study support</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>He explains each step clearly and helps learners build independent study habits. Fictional teaching profile.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-surface"} -->
+<div class="wp-block-group alignfull ls-section ls-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Clear goals. Steady progress.</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-grid"} -->
+<div class="wp-block-group ls-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Small groups</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Time for questions and practical exercises, with close guidance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Useful practice</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Everyday situations and materials adapted to your starting point.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Personal guidance</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We discuss your goals before suggesting a course or study plan.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-surface"} -->
+<div class="wp-block-group alignfull ls-section ls-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-image-text"} -->
+<div class="wp-block-columns ls-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">A small center, thoughtfully equipped</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Two classrooms, a six-computer room and a quiet reception area. Simple, comfortable spaces for learning in person.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/center/">Take a look around</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/02-reception.webp" alt="Oak reception counter and two sage waiting chairs"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">FIND YOUR STARTING POINT</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What would you like to learn?</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-grid"} -->
+<div class="wp-block-group ls-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Beginner English</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Starting out · A1 reference</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 12 weeks · 36 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Build confidence in everyday conversations: introduce yourself, ask for directions and arrange simple plans.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/beginner-english/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Practical skills</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Practical computing</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Beginner</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 6 weeks · 18 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Work comfortably with files, email, documents and basic spreadsheets.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/practical-computing/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Study support</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Academic support</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Secondary school and adult learners</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · Individual plan · review every 4 weeks</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Organise study time, understand key concepts and practise exercises at your own pace.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/academic-support/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Explore all courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>1</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>home</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>https://aulahorizonte.example.invalid/courses/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=2</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Find a course that fits you</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Compare the starting level, practical focus and indicative timetable. Ask us if you need help choosing.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Language courses</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-grid"} -->
+<div class="wp-block-group ls-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Beginner English</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Starting out · A1 reference</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 12 weeks · 36 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Build confidence in everyday conversations: introduce yourself, ask for directions and arrange simple plans.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/beginner-english/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Intermediate English</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Intermediate · B1 reference</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 12 weeks · 36 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Express opinions, tell stories and take part in conversations about work, travel and familiar topics.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/intermediate-english/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Beginner French</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Starting out · A1 reference</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 10 weeks · 30 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Start speaking French through useful situations, pronunciation practice and short conversations.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/beginner-french/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Spanish for newcomers</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Starting out · A1–A2 reference</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 8 weeks · 24 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Use Spanish in the neighborhood, at appointments and in everyday conversations.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/spanish-for-newcomers/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Practical skills and study support</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-grid"} -->
+<div class="wp-block-group ls-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Practical skills</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Practical computing</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Beginner</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · 6 weeks · 18 hours</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Work comfortably with files, email, documents and basic spreadsheets.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/practical-computing/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-card"} -->
+<div class="wp-block-group ls-course-card"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Study support</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Academic support</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Secondary school and adult learners</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-hours"} -->
+<p class="ls-hours">In person · Individual plan · review every 4 weeks</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Organise study time, understand key concepts and practise exercises at your own pace.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/academic-support/">Course details</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>2</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>courses</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Team</title>
+      <link>https://aulahorizonte.example.invalid/team/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=3</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Meet your teaching team</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Practical explanations, a listening ear and room for your questions. Fictional profiles for this demo.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">People who make learning feel closer</h2>
+<!-- /wp:heading -->
+<!-- wp:columns {"className":"ls-team"} -->
+<div class="wp-block-columns ls-team"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-teacher"} -->
+<div class="wp-block-group ls-teacher"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/09-teacher-a-portrait.webp" alt="Teacher Elena with a navy sweater in the main classroom"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Elena Vidal</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Languages and conversation</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>She combines everyday dialogues, listening and practical vocabulary. Fictional teaching profile.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-teacher"} -->
+<div class="wp-block-group ls-teacher"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/10-teacher-b-portrait.webp" alt="Teacher Daniel with glasses and an olive overshirt"/></figure>
+<!-- /wp:image -->
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Daniel Mora</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">Computing and study support</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>He explains each step clearly and helps learners build independent study habits. Fictional teaching profile.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-image-text"} -->
+<div class="wp-block-columns ls-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/11-teaching-team.webp" alt="Two teachers talking beside reception"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">A shared way of teaching</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Elena and Daniel plan practical sessions and discuss how to support different starting points. Replace their biographies, areas and photographs with those of your real team.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>3</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>team</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>The center</title>
+      <link>https://aulahorizonte.example.invalid/center/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=4</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Close by. Ready to learn.</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">A small neighborhood academy in the fictional city of Valdeluz, Spain.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-surface"} -->
+<div class="wp-block-group alignfull ls-section ls-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-image-text"} -->
+<div class="wp-block-columns ls-image-text"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">A small center, thoughtfully equipped</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Two classrooms, a six-computer room and a quiet reception area. Simple, comfortable spaces for learning in person.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/center/">Take a look around</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/02-reception.webp" alt="Oak reception counter and two sage waiting chairs"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-surface"} -->
+<div class="wp-block-group alignfull ls-section ls-surface"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Clear goals. Steady progress.</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-grid"} -->
+<div class="wp-block-group ls-grid"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Small groups</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Time for questions and practical exercises, with close guidance.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Useful practice</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Everyday situations and materials adapted to your starting point.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-benefit"} -->
+<div class="wp-block-group ls-benefit"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Personal guidance</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We discuss your goals before suggesting a course or study plan.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:heading -->
+<h2 class="wp-block-heading">Take a look inside</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Synthetic images of a single fictional academy.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-gallery"} -->
+<div class="wp-block-group ls-gallery"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/01-facade.webp" alt="Street-level glass entrance to the academy"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/02-reception.webp" alt="Oak reception counter and two sage waiting chairs"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/03-main-classroom-hero.webp" alt="Bright classroom with modular tables and green chairs"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/08-study-materials.webp" alt="Notebooks and study materials on a classroom table"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/12-study-corner.webp" alt="Small study corner with chairs and a bookshelf"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/13-classroom-b.webp" alt="Small tutoring classroom with an oak table"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/14-student-detail.webp" alt="Adult learner taking notes beside a laptop"/></figure>
+<!-- /wp:image -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>4</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>center</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://aulahorizonte.example.invalid/contact/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=5</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">We will help you find your starting point</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Tell us what you want to learn and when you are available. Contacting us does not enrol you or reserve a place.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-contact-columns"} -->
+<div class="wp-block-columns ls-contact-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Let’s talk</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Calle del Almendro, 18 · 00000 Valdeluz, Spain</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Fictional address and contact details. Replace them before publishing.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Reception: Monday–Friday, 09:30–13:00 and 16:00–20:00</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://www.openstreetmap.org/">Open map (example)</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Replace the general map link with directions to your center. No map loads automatically.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/01-facade.webp" alt="Street-level glass entrance to the academy"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>5</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>contact</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Beginner English</title>
+      <link>https://aulahorizonte.example.invalid/courses/beginner-english/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=6</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Beginner English</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Build confidence in everyday conversations: introduce yourself, ask for directions and arrange simple plans.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Adults taking their first steps in English or returning after a long break.</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/04-language-class.webp" alt="Teacher guiding six adults in a language class"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Introductions and everyday vocabulary</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Simple questions, listening and pronunciation</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Practical conversations for travel and daily life</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>No previous knowledge required. Bring a notebook; sample materials are provided in class.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Starting out · A1 reference</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>12 weeks · 36 hours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Tuesday and Thursday, 18:00–19:30</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Price</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Illustrative fee: €85/month</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>6</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>beginner-english</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Intermediate English</title>
+      <link>https://aulahorizonte.example.invalid/courses/intermediate-english/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=7</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Intermediate English</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Express opinions, tell stories and take part in conversations about work, travel and familiar topics.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Adults who can already hold simple conversations and want more fluency.</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/05-conversation-workshop.webp" alt="Four adults practising conversation in small groups"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Narrating experiences and making comparisons</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Listening, discussion and useful grammar</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Writing clear everyday messages</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Basic conversational English. We discuss your starting point before recommending a group.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Intermediate · B1 reference</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>12 weeks · 36 hours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Monday and Wednesday, 19:00–20:30</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Price</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Illustrative fee: €95/month</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>7</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>intermediate-english</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Beginner French</title>
+      <link>https://aulahorizonte.example.invalid/courses/beginner-french/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=8</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Beginner French</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Start speaking French through useful situations, pronunciation practice and short conversations.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Young adults and adults curious about learning a new language.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Greetings, sounds and introductions</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Shopping, food and getting around</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Simple descriptions and short dialogues</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>No prior French required. A willingness to practise aloud is enough.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Starting out · A1 reference</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>10 weeks · 30 hours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Tuesday and Thursday, 16:30–18:00</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Price</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Illustrative fee: €85/month</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>8</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>beginner-french</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Spanish for newcomers</title>
+      <link>https://aulahorizonte.example.invalid/courses/spanish-for-newcomers/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=9</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Spanish for newcomers</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Use Spanish in the neighborhood, at appointments and in everyday conversations.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Adults who have recently moved to Spain or want to practise everyday Spanish.</p>
+<!-- /wp:paragraph -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Introducing yourself and asking for help</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Everyday errands and useful vocabulary</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Understanding conversations and joining in</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We adapt practice to your starting point. Contact us to discuss your needs.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Starting out · A1–A2 reference</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>8 weeks · 24 hours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Monday and Wednesday, 10:00–11:30</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Price</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Illustrative fee: €90/month</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>9</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>spanish-for-newcomers</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Practical computing</title>
+      <link>https://aulahorizonte.example.invalid/courses/practical-computing/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=10</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Practical computing</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Work comfortably with files, email, documents and basic spreadsheets.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Adults who want more independence using a computer for everyday tasks.</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/07-computer-training.webp" alt="Practical computing class in a six-computer room"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Files, folders and safe browsing habits</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Email and everyday documents</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Simple spreadsheets and practical exercises</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>No personal computer required: classroom computers are used. Basic mouse and keyboard familiarity is helpful.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Beginner</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>6 weeks · 18 hours</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Friday, 16:30–19:30</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Price</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Illustrative fee: €150/course</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>10</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>practical-computing</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <title>Academic support</title>
+      <link>https://aulahorizonte.example.invalid/courses/academic-support/</link>
+      <dc:creator>admin</dc:creator>
+      <guid isPermaLink="false">https://aulahorizonte.example.invalid/DEMO_IMPORT_TOKEN/?page_id=11</guid>
+      <content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-page-intro"} -->
+<div class="wp-block-group alignfull ls-section ls-page-intro"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">AULA HORIZONTE</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Academic support</h1>
+<!-- /wp:heading -->
+<!-- wp:paragraph {"className":"ls-lead"} -->
+<p class="ls-lead">Organise study time, understand key concepts and practise exercises at your own pace.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-course-layout"} -->
+<div class="wp-block-columns ls-course-layout"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-body"} -->
+<div class="wp-block-group ls-course-body"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who is it for?</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Young people and adults who need help with study habits or specific subjects.</p>
+<!-- /wp:paragraph -->
+<!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/06-individual-tutoring.webp" alt="Teacher explaining an exercise to an adult learner"/></figure>
+<!-- /wp:image -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-syllabus"} -->
+<div class="wp-block-group ls-syllabus"><!-- wp:heading -->
+<h2 class="wp-block-heading">What we will practise</h2>
+<!-- /wp:heading -->
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Study planning and manageable goals</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Guided exercises in agreed subjects</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Revision strategies and progress reviews</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+</div>
+<!-- /wp:group -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Before you begin</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Bring the materials you currently use. We agree on goals after an initial conversation; results are not guaranteed.</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-course-aside"} -->
+<div class="wp-block-group ls-course-aside"><!-- wp:heading -->
+<h2 class="wp-block-heading">At a glance</h2>
+<!-- /wp:heading -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-facts"} -->
+<div class="wp-block-group ls-facts"><!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Level</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Secondary school and adult learners</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Duration</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Individual plan · review every 4 weeks</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Format</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>In person · small group</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"className":"ls-fact"} -->
+<div class="wp-block-group ls-fact"><!-- wp:paragraph {"className":"ls-fact-label"} -->
+<p class="ls-fact-label">Indicative schedule</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>Afternoons by arrangement</p>
+<!-- /wp:paragraph -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:paragraph {"className":"ls-demo-note"} -->
+<p class="ls-demo-note">Schedules and fees are illustrative and may change. Ask us for current information; language levels are references, not official qualifications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section"} -->
+<div class="wp-block-group alignfull ls-section"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="https://aulahorizonte.example.invalid/courses/">Back to courses</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+<!-- wp:group {"layout":{"type":"constrained"},"align":"full","className":"ls-section ls-closing"} -->
+<div class="wp-block-group alignfull ls-section ls-closing"><!-- wp:group {"layout":{"type":"constrained","contentSize":"1200px"},"align":"wide"} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"className":"ls-closing-columns"} -->
+<div class="wp-block-columns ls-closing-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"className":"ls-eyebrow"} -->
+<p class="ls-eyebrow">LET’S TALK ABOUT YOUR NEXT STEP</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Tell us what you want to learn</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Ask about levels, schedules and fees. We will help you find a starting point. An enquiry does not reserve a place.</p>
+<!-- /wp:paragraph -->
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="mailto:hello@aulahorizonte.example.invalid">Request information</a></div>
+<!-- /wp:button -->
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="tel:+34900000000">Call us</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:column -->
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"ls-photo"} -->
+<figure class="wp-block-image size-full ls-photo"><img src="https://aulahorizonte.example.invalid/media/15-center-atmosphere.webp" alt="Short corridor opening into the classroom in afternoon light"/></figure>
+<!-- /wp:image -->
+</div>
+<!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
+</div>
+<!-- /wp:group -->
+</div>
+<!-- /wp:group -->
+
+]]></content:encoded>
+      <excerpt:encoded/>
+      <wp:post_id>11</wp:post_id>
+      <wp:post_date>2026-01-01 12:00:00</wp:post_date>
+      <wp:post_date_gmt>2026-01-01 12:00:00</wp:post_date_gmt>
+      <wp:post_name>academic-support</wp:post_name>
+      <wp:status>publish</wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>0</wp:menu_order>
+      <wp:post_type>page</wp:post_type>
+      <wp:is_sticky>0</wp:is_sticky>
+      <wp:postmeta>
+        <wp:meta_key>_wp_page_template</wp:meta_key>
+        <wp:meta_value>landing</wp:meta_value>
+      </wp:postmeta>
+      <wp:postmeta>
+        <wp:meta_key>_learnstudio_import</wp:meta_key>
+        <wp:meta_value>DEMO_IMPORT_TOKEN</wp:meta_value>
+      </wp:postmeta>
+    </item>
+  </channel>
+</rss>
