@@ -14,7 +14,7 @@ Cada producto conserva `assets/images/demo/`, identidad, capturas de entrega, li
 
 ## Entregas
 
-Los asistentes descargan adjuntos de [GitHub Releases](https://github.com/Raposo93/web-templates-demos/releases) desde `releases/download/<slug>-demo-<version>/<archivo>`. No usan el árbol Git. Las carpetas `packages/<version>/` se retiraron tras comprobar por descarga anónima los seis paquetes completos y su igualdad byte a byte. [releases.json](releases.json) conserva URLs y hashes de sus inventarios. Releases, tags y URLs siguen intactos; los archivos también se recuperan desde Git anterior a la limpieza.
+Los asistentes descargan adjuntos de [GitHub Releases](https://github.com/Raposo93/web-templates-demos/releases) desde `releases/download/<slug>-demo-<version>/<archivo>`. No usan el árbol Git. Las carpetas `packages/<version>/` se retiraron tras comprobar por descarga anónima los seis paquetes completos y su igualdad byte a byte. [releases.json](releases.json) es el registro histórico de esos seis paquetes retirados del árbol: conserva sus URLs y hashes de inventario. No es un índice completo de Releases ni se actualiza con cada publicación; el listado completo y vigente está en GitHub Releases. Releases, tags y URLs siguen intactos; los archivos también se recuperan desde Git anterior a la limpieza.
 
 Nuevos paquetes se generan desde el tema etiquetado, se validan y publican mediante `web-templates/tools/release-demo.py` antes de distribuir el ZIP. No se archivan en Git. Hearth & Grain necesita un adaptador WooCommerce antes de ofrecer paquetes importables.
 
