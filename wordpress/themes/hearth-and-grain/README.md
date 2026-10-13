@@ -1,15 +1,13 @@
-# hearth-and-grain: medios de demostración
+# Hearth & Grain: medios de demostración
 
-Recursos de la demo ficticia del tema hearth-and-grain, organizados con las mismas rutas que `web-templates`. No es un tema instalable ni un paquete de importación.
+24 fotografías sintéticas de Nativa Home, negocio ficticio, en `assets/images/demo/`; identidad PNG/SVG en `assets/identity/`, captura principal y documentación de recursos. Esta carpeta no contiene un tema instalable.
 
-Incluye 24 fotografías sintéticas WebP en `assets/images/demo/`, identidad PNG/SVG en `assets/identity/`, captura de portada y documentación de procedencia y permisos en `assets/RESOURCES.md`. Las capturas no se importan a Medios. Los SVG son fuentes editables; WordPress no admite su subida de forma nativa.
+Este catálogo es la fuente canónica de las fotografías optimizadas. `web-templates` consume un commit fijo y hashes por archivo mediante `demo/media.json` y su herramienta `fetch-demo-media.py`. Los originales y generadores permanecen fuera del catálogo; actualizar fotos requiere revisar permisos, renovar `SHA256SUMS` y actualizar explícitamente el inventario del consumidor. No se cambia un commit fijado ni una Release publicada.
 
-Para utilizarlos, selecciona los WebP y PNG correspondientes desde Medios → Añadir nuevo en WordPress. Se pueden sustituir por recursos propios. Las demos española e inglesa comparten estos medios. La importación automática de contenidos y sus dependencias se documentan en el repositorio del tema.
+Para uso manual, sube los WebP y PNG a Medios en WordPress y sustituye contenido e identidad de ejemplo. Los SVG son fuentes editables, sin habilitar su subida nativa. No se requieren herramientas para usar las fotos.
 
-Código e identidad: GPL-2.0-or-later (`LICENSE`). Las fotografías tienen el permiso no exclusivo descrito en `assets/RESOURCES.md`; no se permite venderlas como colección independiente. Conserva esa documentación al distribuir los recursos con el tema.
+No hay paquete importable hasta disponer del adaptador WooCommerce; aquí se conservan medios de trabajo.
 
-Los derivados se copian sin modificar desde `wordpress/themes/hearth-and-grain/` de `web-templates`, commit `19347eb`. No hay generación en este repositorio: las herramientas y fuentes de generación permanecen en el producto de origen. No se incluyen originales, credenciales, datos de sitios reales ni dependencias de ejecución.
+Desde esta carpeta: `sha256sum -c SHA256SUMS`. Desde la raíz: `./check.sh`. La comprobación de paquetes descargados se describe en el [README raíz](../../../README.md); los entornos WordPress/PHP comprobados están documentados en el tema de origen.
 
-Comprueba integridad desde esta carpeta con `sha256sum -c SHA256SUMS`; desde la raíz, ejecuta `./check.sh`. Esta entrega conserva los formatos originales y no acredita nuevas pruebas de compatibilidad del tema.
-
-El adaptador de importación WooCommerce sigue pendiente en web-templates #26. Este catálogo conserva solo medios manuales: no incluye `packages/`, manifiestos JSON ni WXR, y los comprobadores de paquetes no exigen ese adaptador.
+Código e identidad: [GPL-2.0-or-later](LICENSE). Fotografías: permiso no exclusivo para webs creadas con el tema, incluidos proyectos comerciales, sin venta como colección independiente. Condiciones completas en [assets/RESOURCES.md](assets/RESOURCES.md); consérvalas al distribuir los medios.

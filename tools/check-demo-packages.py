@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Validate versioned native-page demo packages before release publication."""
+import argparse
 import hashlib
 import json
 from pathlib import Path
@@ -11,11 +12,14 @@ contracts = {'tourist-stay': (5, 18), 'tradeworks': (6, 17),
              'table-and-fork': (5, 17), 'learnstudio': (11, 17)}
 
 
-def check_package(slug, version):
+def check_package(slug, version, package):
     assert slug in contracts, f'Unsupported demo contract: {slug}'
     assert re.fullmatch(r'[0-9]+\.[0-9]+\.[0-9]+', version), f'Invalid version: {version}'
     pages, media = contracts[slug]
-    package = root / 'wordpress/themes' / slug / 'packages' / version
+    records = json.loads((root / 'releases.json').read_text())
+    record = next((v for v in records if v['tag'] == f'{slug}-demo-{version}'), None)
+    if record:
+        assert hashlib.sha256((package / 'SHA256SUMS').read_bytes()).hexdigest() == record['inventory_sha256'], 'Archived release inventory differs'
     checksums = {}
     for line in (package / 'SHA256SUMS').read_text().splitlines():
         digest, name = line.split('  ', 1)
@@ -53,6 +57,9 @@ def check_package(slug, version):
 
 
 if __name__ == '__main__':
-    for slug in contracts:
-        for package in sorted((root / 'wordpress/themes' / slug / 'packages').iterdir()):
-            check_package(slug, package.name)
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('slug', choices=contracts)
+    parser.add_argument('version')
+    parser.add_argument('directory', type=Path, help='Downloaded or generated assets outside the tracked tree')
+    args = parser.parse_args()
+    check_package(args.slug, args.version, args.directory)

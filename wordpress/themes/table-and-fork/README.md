@@ -1,23 +1,13 @@
-# table-and-fork: medios de demostración
+# Table & Fork: medios de demostración
 
-Recursos de la demo ficticia del tema table-and-fork, organizados con las mismas rutas que `web-templates`. No es un tema instalable; los medios de trabajo y el paquete importable de `packages/` se describen por separado.
+15 fotografías sintéticas de Patio del Olivo, negocio ficticio, en `assets/images/demo/`; identidad PNG/SVG en `assets/identity/`, captura principal y documentación de recursos. Esta carpeta no contiene un tema instalable.
 
-Incluye 15 fotografías sintéticas WebP en `assets/images/demo/`, identidad PNG/SVG en `assets/identity/`, captura de portada y documentación de procedencia y permisos en `assets/RESOURCES.md`. Las capturas no se importan a Medios. Los SVG son fuentes editables; WordPress no admite su subida de forma nativa.
+Este catálogo es la fuente canónica de las fotografías optimizadas. `web-templates` consume un commit fijo y hashes por archivo mediante `demo/media.json` y su herramienta `fetch-demo-media.py`. Los originales y generadores permanecen fuera del catálogo; actualizar fotos requiere revisar permisos, renovar `SHA256SUMS` y actualizar explícitamente el inventario del consumidor. No se cambia un commit fijado ni una Release publicada.
 
-Para utilizarlos, selecciona los WebP y PNG correspondientes desde Medios → Añadir nuevo en WordPress. Se pueden sustituir por recursos propios. Las demos española e inglesa comparten estos medios. La importación automática de contenidos y sus dependencias se documentan en el repositorio del tema.
+Para uso manual, sube los WebP y PNG a Medios en WordPress y sustituye contenido e identidad de ejemplo. Los SVG son fuentes editables, sin habilitar su subida nativa. No se requieren herramientas para usar las fotos.
 
-Código e identidad: GPL-2.0-or-later (`LICENSE`). Las fotografías tienen el permiso no exclusivo descrito en `assets/RESOURCES.md`; no se permite venderlas como colección independiente. Conserva esa documentación al distribuir los recursos con el tema.
+El asistente descarga los paquetes A/B ES/EN desde [Releases](https://github.com/Raposo93/web-templates-demos/releases), con adjuntos planos y versiones inmutables. No usa rutas de main. Los paquetes históricos ya no se duplican en Git; las URLs y bytes publicados se conservan.
 
-Los derivados se copian sin modificar desde `wordpress/themes/table-and-fork/` de `web-templates`, commit `19347eb`. No hay generación en este repositorio: las herramientas y fuentes de generación permanecen en el producto de origen. No se incluyen originales, credenciales, datos de sitios reales ni dependencias de ejecución.
+Desde esta carpeta: `sha256sum -c SHA256SUMS`. Desde la raíz: `./check.sh`. La comprobación de paquetes descargados se describe en el [README raíz](../../../README.md); los entornos WordPress/PHP comprobados están documentados en el tema de origen.
 
-Comprueba integridad desde esta carpeta con `sha256sum -c SHA256SUMS`; desde la raíz, ejecuta `./check.sh`. Esta entrega conserva los formatos originales y no acredita nuevas pruebas de compatibilidad del tema.
-
-## Paquete del asistente 0.1.0
-
-`packages/0.1.0/` contiene los cuatro manifiestos JSON y WXR (A/B × ES/EN), los 17 medios raster, las capturas y licencias del asistente. La Release `table-and-fork-demo-0.1.0` entrega estos archivos sin subdirectorios para conservar las URLs del tema. Los recursos de `assets/` permiten inspección manual; el asistente usa los adjuntos de Release, no las rutas de `main`. No se sustituyen adjuntos publicados.
-
-Antes de publicar, ejecuta `./check.sh` desde la raíz. Crea la Release desde el commit que contiene el paquete comprobado e incluye todos sus archivos, incluido `SHA256SUMS`; verifica después las descargas sin autenticación. La publicación no sustituye las pruebas del asistente en WordPress.
-
-## Entrega inmutable 0.1.1
-
-`packages/0.1.1/` conserva WXR, fotografías, identidad y licencias de 0.1.0; los cuatro manifiestos declaran contrato y tema 0.1.1 y tienen checksums nuevos. La [Release `table-and-fork-demo-0.1.1`](https://github.com/Raposo93/web-templates-demos/releases/tag/table-and-fork-demo-0.1.1) está publicada con `immutable: true` y 30 adjuntos. Todos se descargaron sin autenticación y coinciden byte a byte con el paquete validado. La entrega 0.1.0 y sus adjuntos se conservan; su API devuelve `immutable: false`. No se han repetido pruebas de WordPress para esta entrega; los flujos están documentados en el producto de origen.
+Código e identidad: [GPL-2.0-or-later](LICENSE). Fotografías: permiso no exclusivo para webs creadas con el tema, incluidos proyectos comerciales, sin venta como colección independiente. Condiciones completas en [assets/RESOURCES.md](assets/RESOURCES.md); consérvalas al distribuir los medios.

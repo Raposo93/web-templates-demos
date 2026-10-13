@@ -1,0 +1,44 @@
+[
+  {
+    "tag": "learnstudio-demo-0.1.0",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/learnstudio-demo-0.1.0",
+    "assets": 30,
+    "inventory_sha256": "fdeee11c1e5184f926a31c91fb2335ef98a32d3c16ca4fbafeaa8b840365b3a8",
+    "bytes": 3550933
+  },
+  {
+    "tag": "learnstudio-demo-0.1.1",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/learnstudio-demo-0.1.1",
+    "assets": 30,
+    "inventory_sha256": "39d02de96c089140306eb48e1284fa70116749cb2a7b2430c723ebf9ba7713bb",
+    "bytes": 3548165
+  },
+  {
+    "tag": "table-and-fork-demo-0.1.0",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/table-and-fork-demo-0.1.0",
+    "assets": 30,
+    "inventory_sha256": "b2f26acf0c068c3667bc0f15258a04aa4ca335106425e2e8a76615e26a872d3d",
+    "bytes": 4906245
+  },
+  {
+    "tag": "table-and-fork-demo-0.1.1",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/table-and-fork-demo-0.1.1",
+    "assets": 30,
+    "inventory_sha256": "8c3133e98c7c6fa279047190a2182047694f26512b4313bdfc1818b3898b7188",
+    "bytes": 4903957
+  },
+  {
+    "tag": "tourist-stay-demo-0.1.0",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/tourist-stay-demo-0.1.0",
+    "assets": 31,
+    "inventory_sha256": "d64700070686710861b5a3de4bcd196bb7e706d92d69b339385f4bca04167aae",
+    "bytes": 4191116
+  },
+  {
+    "tag": "tradeworks-demo-0.1.0",
+    "url": "https://github.com/Raposo93/web-templates-demos/releases/tag/tradeworks-demo-0.1.0",
+    "assets": 30,
+    "inventory_sha256": "d6d5c130f8090634e35e99da15e921921452884b86ab233195ce208b21a566aa",
+    "bytes": 2513753
+  }
+]

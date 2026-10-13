@@ -1,50 +1,38 @@
 # web-templates-demos
 
-Datos y medios públicos de demostración de cinco temas independientes de `web-templates`. Este repositorio no contiene temas instalables; sus ZIP se entregan por separado.
+Fuente canónica pública de fotografías optimizadas y medios de cinco temas independientes. Los temas instalables y sus generadores viven en `web-templates`; sus ZIP se entregan por separado.
 
-| Producto | Medios de trabajo | Paquete del asistente | Documentación |
-| --- | --- | --- | --- |
-| Tourist Stay / Casa Brisa | 16 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tourist-stay/README.md) |
-| TradeWorks / Nexo Instalaciones | 15 WebP e identidad | A/B × ES/EN, 0.1.0 | [README](wordpress/themes/tradeworks/README.md) |
-| Table & Fork / Patio del Olivo | 15 WebP e identidad | A/B × ES/EN, 0.1.1 inmutable | [README](wordpress/themes/table-and-fork/README.md) |
-| LearnStudio / Aula Horizonte | 15 WebP e identidad | A/B × ES/EN, 0.1.1 inmutable | [README](wordpress/themes/learnstudio/README.md) |
-| Hearth & Grain / Nativa Home | 24 WebP e identidad | Pendiente: adaptador WooCommerce | [README](wordpress/themes/hearth-and-grain/README.md) |
+| Producto | Fotos | Documentación |
+| --- | ---: | --- |
+| Tourist Stay / Casa Brisa | 16 | [README](wordpress/themes/tourist-stay/README.md) |
+| TradeWorks / Nexo Instalaciones | 15 | [README](wordpress/themes/tradeworks/README.md) |
+| Table & Fork / Patio del Olivo | 15 | [README](wordpress/themes/table-and-fork/README.md) |
+| LearnStudio / Aula Horizonte | 15 | [README](wordpress/themes/learnstudio/README.md) |
+| Hearth & Grain / Nativa Home | 24 | [README](wordpress/themes/hearth-and-grain/README.md) |
 
-## Organización común
+Cada producto conserva `assets/images/demo/`, identidad, capturas de entrega, licencia, condiciones de recursos y `SHA256SUMS`. El consumidor privado fija un commit completo y SHA-256 por fotografía, restaura las mismas rutas locales y no necesita autenticación. No consume `main` dinámicamente.
 
-Todas las rutas se resuelven desde `wordpress/themes/<slug>/`:
+## Entregas
 
-| Contenido | Ruta dentro del producto |
-| --- | --- |
-| Documentación e inventario de trabajo | `README.md`, `SHA256SUMS` |
-| Fotografías de trabajo | `assets/images/demo/` |
-| Identidad y fuentes vectoriales | `assets/identity/` |
-| Condiciones y licencia | `assets/RESOURCES.md`, `LICENSE` |
-| Captura principal y adicionales | `screenshot.png`, `demo/` |
-| Entrega completa archivada | `packages/<version>/` |
+Los asistentes descargan adjuntos de [GitHub Releases](https://github.com/Raposo93/web-templates-demos/releases) desde `releases/download/<slug>-demo-<version>/<archivo>`. No usan el árbol Git. Las carpetas `packages/<version>/` se retiraron tras comprobar por descarga anónima los seis paquetes completos y su igualdad byte a byte. [releases.json](releases.json) conserva URLs y hashes de sus inventarios. Releases, tags y URLs siguen intactos; los archivos también se recuperan desde Git anterior a la limpieza.
 
-Los medios de trabajo permiten inspección y subida manual a WordPress. Cada paquete versionado es una entrega completa y plana: imágenes, identidad raster, capturas, manifiestos JSON, WXR, licencias y `SHA256SUMS`. Los nombres `es_ES-home-a.json`, etc., distinguen idioma y composición; no se añaden subcarpetas. Hearth & Grain conserva solo medios y no tiene paquete importable hasta disponer de su adaptador WooCommerce.
+Nuevos paquetes se generan desde el tema etiquetado, se validan y publican mediante `web-templates/tools/release-demo.py` antes de distribuir el ZIP. No se archivan en Git. Hearth & Grain necesita un adaptador WooCommerce antes de ofrecer paquetes importables.
 
-El asistente descarga **adjuntos de GitHub Releases**, desde `https://github.com/Raposo93/web-templates-demos/releases/download/<slug>-demo-<version>/<archivo>`, nunca desde el árbol de Git. Mover las carpetas no cambia esas URLs. Las cuatro Releases 0.1.0, sus tags y sus bytes se conservan; las correcciones requieren una nueva versión y contrato coherente del tema. No subas el ZIP de fuentes de este repositorio como tema.
+## Desarrollo y comprobaciones
 
-## Generación y validación
-
-Las herramientas y fuentes editables permanecen en cada tema de `web-templates`. Su generador `tools/build-demo.php` exporta los patrones registrados en WordPress desechable con el idioma correcto; `dist/demo-release/` es la salida del generador. Se validan A/B × ES/EN antes de entregar el paquete completo. Si se archiva en este repositorio, se usa `wordpress/themes/<slug>/packages/<version>/`. El flujo de [web-templates #31](https://github.com/Raposo93/web-templates/issues/31) genera y valida los paquetes desde el commit etiquetado del tema, publica y verifica la demo antes del ZIP y no requiere archivar cada entrega nueva en Git. El estado de validación efectiva se mantiene en el repositorio del tema.
+Python 3.9+ y Git solo para mantenimiento:
 
 ```sh
 ./check.sh
-python3 tools/check-package.py tourist-stay 0.1.0
-python3 tools/check-package.py tradeworks 0.1.0
-python3 tools/check-demo-packages.py
-python3 tools/check-media.py
-# In a downloaded release asset directory:
-sha256sum -c SHA256SUMS
+# Download a complete release into an ignored directory, then verify it:
+gh release download tourist-stay-demo-0.1.0 --repo Raposo93/web-templates-demos \
+  --dir release-artifacts/tourist-stay-demo-0.1.0
+python3 tools/check-demo-packages.py tourist-stay 0.1.0 \
+  release-artifacts/tourist-stay-demo-0.1.0
 ```
 
-Python 3.9+ y Git se necesitan solo para las comprobaciones de desarrollo. `check-demo-packages.py` recorre las versiones archivadas de los cuatro contratos existentes; `check-package.py` valida una pareja slug/versión con las mismas comprobaciones. `check-media.py` verifica el inventario separado de los cinco productos. No se necesitan herramientas de ejecución para usar las imágenes. Integridad de archivos no acredita compatibilidad adicional del tema: instalación, edición y visualización de WordPress/PHP se documentan en el producto de origen.
+`check.sh` verifica los inventarios completos de medios sin red. El verificador de paquetes exige inventario exacto, hashes, cuatro contratos JSON/WXR, páginas y medios raster; también contrasta el hash histórico de `releases.json` cuando existe. GitHub CLI solo se necesita para el ejemplo de descarga; los adjuntos públicos pueden descargarse anónimamente por HTTPS.
 
-El workflow `release-demos.yml` valida los paquetes archivados y medios de trabajo en commits/PR de `main` y por ejecución manual, con `contents: read`; no publica ni responde a tags. La publicación tiene una sola implementación en `web-templates/tools/release-demo.py`, invocada explícitamente por el lanzamiento del tema. Así la creación de un tag público no lanza otro publicador que compita por la misma entrega. Las nuevas Releases siguen usando adjuntos planos `<slug>-demo-X.Y.Z/<archivo>`, aunque sus datos no se archiven en el árbol. La anotación de cada tag y las notas de Release registran repositorio/commit de origen y el enlace a la entrega del tema. Los ZIP privados, código PHP y herramientas del tema no se adjuntan aquí.
+El workflow `release-demos.yml` comprueba medios en commits/PR y manualmente, con `contents: read`; no publica ni responde a tags. Los procedimientos de generación/publicación están en [PUBLISHING.md del repositorio de temas](https://github.com/Raposo93/web-templates/blob/main/PUBLISHING.md). No se duplica el publicador ni se certifica compatibilidad WordPress por comprobar hashes.
 
-Código e identidad: GPL-2.0-or-later. Los permisos no exclusivos de las fotografías sintéticas se documentan por producto y se incluyen en los paquetes: uso en webs creadas con el tema, incluidos proyectos comerciales, sin venta como colección independiente. Son negocios ficticios; no se incluyen originales de alta resolución ni datos reales.
-
-La revisión de consumidores, workflows y compatibilidad de rutas se registra en [MIGRATION.md](MIGRATION.md).
+Código e identidad: GPL-2.0-or-later. Fotografías sintéticas: permisos no exclusivos documentados por producto, para webs realizadas con el tema, incluso comerciales, sin venta como colección independiente. No hay datos de negocios reales ni originales de alta resolución.

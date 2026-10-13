@@ -1,0 +1,4 @@
+/release-artifacts/
+wordpress/themes/*/packages/
+__pycache__/
+*.pyc
